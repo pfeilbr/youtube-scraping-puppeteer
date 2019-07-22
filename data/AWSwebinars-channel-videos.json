@@ -1,0 +1,4338 @@
+[
+	{
+		"title": "Running your ML code in Amazon Sagemaker - AWS Webinar - Hebrew",
+		"url": "https://www.youtube.com/watch?v=fhkkja0PMMY"
+	},
+	{
+		"title": "Managing Your ML Development Lifecycle with Amazon SageMaker - AWS Webinar - Hebrew",
+		"url": "https://www.youtube.com/watch?v=3MnZCq1wlwE"
+	},
+	{
+		"title": "Personalize, Forcast, and Textract - AWS Webinar - Hebrew",
+		"url": "https://www.youtube.com/watch?v=_iOQWzAwAck"
+	},
+	{
+		"title": "Enriching your app with Image Recognition and AWS AI Services - AWS Webinar - Hebrew",
+		"url": "https://www.youtube.com/watch?v=2jaoIUnGcWo"
+	},
+	{
+		"title": "AWS Floor28 News - July - Hebrew",
+		"url": "https://www.youtube.com/watch?v=rhjeVSIKaFM"
+	},
+	{
+		"title": "Use Pre-Built Containers to Build Custom Deep Learning Models Quickly - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=Z2m9SvECi54"
+	},
+	{
+		"title": "AWS Floor28 News - June - Hebrew",
+		"url": "https://www.youtube.com/watch?v=_Un1poEIPKw"
+	},
+	{
+		"title": "Serverless Streams, Topics, Queues, & APIs! How to Pick the Right Serverless Application Pattern",
+		"url": "https://www.youtube.com/watch?v=shQpw6xjkko"
+	},
+	{
+		"title": "How AWS Migration Hub Helps You Plan, Track, and Complete Your Application Migrations",
+		"url": "https://www.youtube.com/watch?v=PVyWqViXieY"
+	},
+	{
+		"title": "Gain Control Over Your License Usage and Reduce Costs Using AWS License Manager",
+		"url": "https://www.youtube.com/watch?v=r4X6YtSiFWw"
+	},
+	{
+		"title": "Developing Intelligent Robots with AWS RoboMaker - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=4y9X2CtJCxs"
+	},
+	{
+		"title": "How to Build Your Cloud Enablement Engine with the People You Already Have - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=k5jjRPgw_so"
+	},
+	{
+		"title": "Running Enterprise CI/CD Workloads with Amazon EC2 Spot Instances and CloudBees",
+		"url": "https://www.youtube.com/watch?v=us7bLV1EwhE"
+	},
+	{
+		"title": "Build Your Data Lake on Amazon S3 - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=ccIBYUjnt74"
+	},
+	{
+		"title": "Securing Your Devices from the Edge to the Cloud - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=cPOk81pVWM0"
+	},
+	{
+		"title": "Replace Your On-Premises VDI with End-User Computing on AWS - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=P3DpEbk5jHk"
+	},
+	{
+		"title": "Create a Digital Asset with Amazon Sumerian and AWS IoT - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=4XEY_TgxkEI"
+	},
+	{
+		"title": "Container Security 101 and Beyond - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=Cp4rdlsQORo"
+	},
+	{
+		"title": "Unify Your Data Warehouse and Data Lake with AWS - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=KdqWb6M0TiM"
+	},
+	{
+		"title": "Root Cause and End-user Impact Analysis Using AWS X-Ray - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=Adah1LeaPWg"
+	},
+	{
+		"title": "Learn How Amazon.com Uses Amazon GuardDuty to Protect Its Infrastructure - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=dOAdH2uSJS0"
+	},
+	{
+		"title": "Ditching the Overhead: Moving Apache Kafka Workloads into Amazon MSK - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=j7tO2n4GKC8"
+	},
+	{
+		"title": "Serverless E-commerce Application Using AWS AppSync - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=epZMWM3ZBa4"
+	},
+	{
+		"title": "Building Secure Machine Learning Environments Using Amazon SageMaker - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=txr6CR87GXI"
+	},
+	{
+		"title": "Customer Showcase: Exploiting Multi-Region Data Locality with Lambda@Edge - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=wMq-rnGhDHo"
+	},
+	{
+		"title": "Build ETL Processes for Data Lakes with AWS Glue - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=P3z4IX5-OHM"
+	},
+	{
+		"title": "Continuous Compliance with AWS Security Hub - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=1DvAOOwOa5Q"
+	},
+	{
+		"title": "How to Accelerate Migrations to AWS with CloudEndure - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=kIJ29q-Jsyo"
+	},
+	{
+		"title": "Introduction to Amazon EC2 Instances Featuring AMD EPYC Processors - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=5fWjtXa_c-o"
+	},
+	{
+		"title": "Office Hours: Amazon Managed Blockchain - Building Distributed Applications w/ Hyperledger Fabric",
+		"url": "https://www.youtube.com/watch?v=2dLOr4euiGg"
+	},
+	{
+		"title": "Customer Showcase: Extending Machine Learning to Industrial IoT Applications at the Edge",
+		"url": "https://www.youtube.com/watch?v=7EcMBKI4BpU"
+	},
+	{
+		"title": "Getting Started with Cross-Account Encryption Using AWS KMS, Feat. Slack Enterprise Key Management",
+		"url": "https://www.youtube.com/watch?v=YCB90Hun7Y0"
+	},
+	{
+		"title": "Simplify and Scale How You Connect Your Premises to AWS w/ AWS Direct Connect on AWS Transit Gateway",
+		"url": "https://www.youtube.com/watch?v=sqrBi_4fFdk"
+	},
+	{
+		"title": "Build Efficient and Accurate Recommendation Engines with Amazon Personalize - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=m0Pty9v9A_0"
+	},
+	{
+		"title": "Your First HPC Cluster on AWS - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=UnQM7cX2y0E"
+	},
+	{
+		"title": "Authentication for Your Applications: Getting Started with Amazon Cognito - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=OAR4ZHP8DEg"
+	},
+	{
+		"title": "AWS Fireside Chat: Optimize Your Business Continuity Strategy with Aurora Global Database",
+		"url": "https://www.youtube.com/watch?v=FKz72GugM2Q"
+	},
+	{
+		"title": "Build a Scalable Architecture to Automatically Extract and Import Form Data - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=aBaoS4c4-Yo"
+	},
+	{
+		"title": "What's New in AWS Landing Zone - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=d6mMyhgqIZE"
+	},
+	{
+		"title": "Briefing: AWS Hybrid Cloud Storage and Edge Computing - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=ad5Ne-aQTCg"
+	},
+	{
+		"title": "AWS Floor28 News - May - Hebrew",
+		"url": "https://www.youtube.com/watch?v=xhpafwWY4pM"
+	},
+	{
+		"title": "AWS Online Tech Talks - June 2019",
+		"url": "https://www.youtube.com/watch?v=-DFVUpd8iuQ"
+	},
+	{
+		"title": "Managing Tens to Billions of Objects at Scale with S3 Batch Operations - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=x-YjzkPg-1Y"
+	},
+	{
+		"title": "Managing Amazon Linux WorkSpaces at Scale Using AWS OpsWorks for Chef Automate",
+		"url": "https://www.youtube.com/watch?v=Qk2chkATf28"
+	},
+	{
+		"title": "Building Event-Driven Serverless Apps with AWS Event Fork Pipelines - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=y0WJLXx5Ml0"
+	},
+	{
+		"title": "Building a Data Streaming Application Leveraging Apache Flink - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=4FIPt87A_qM"
+	},
+	{
+		"title": "Microservice Deployment Strategies with AWS App Mesh - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=UATTjvjoYEE"
+	},
+	{
+		"title": "Deploying and Consuming Serverless Functions with AWS Amplify - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=PswB47WJ4Xk"
+	},
+	{
+		"title": "Infrastructure as Code Testing Strategies with AWS CloudFormation - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=JSfqUCIK_OA"
+	},
+	{
+		"title": "Migrating to Amazon DocumentDB - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=kAI9gTtdzc4"
+	},
+	{
+		"title": "Managing Application Deployments with the AWS Service Operator - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=VvRElAEzTC8"
+	},
+	{
+		"title": "EKK is the New ELK: Aggregating, Analyzing and Visualizing Logs  - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=f3MblPwVIGc"
+	},
+	{
+		"title": "How to Build a Private Marketplace & Govern Software Provisioning with Speed - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=xX2bz52yr4w"
+	},
+	{
+		"title": "Accelerate Machine Learning Projects with Hundreds of Algorithms and Models in AWS Marketplace",
+		"url": "https://www.youtube.com/watch?v=OrmHHVI1uPk"
+	},
+	{
+		"title": "AWS Online Tech Talks - May 2019",
+		"url": "https://www.youtube.com/watch?v=OhCpE3-elcQ"
+	},
+	{
+		"title": "How to Build an Application with Amazon Managed Blockchain - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=1br20axMBxw"
+	},
+	{
+		"title": "Bring Voice to Your Workplace - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=2PLiJ0b_W2Y"
+	},
+	{
+		"title": "Introducing New Amazon EC2 Instances Featuring AMD EPYC and AWS Graviton Processors",
+		"url": "https://www.youtube.com/watch?v=xRB9Qc5NAUU"
+	},
+	{
+		"title": "Customer Showcase: Improving Data Processing Workloads with AWS Step Functions' Service Integrations",
+		"url": "https://www.youtube.com/watch?v=jf6Xv2Fzxcc"
+	},
+	{
+		"title": "Deploying Machine Learning Models in Production - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=yAr4IZx2TOA"
+	},
+	{
+		"title": "Business Case Teardown: Identify Your Real-World On-Premises and Projected AWS Costs",
+		"url": "https://www.youtube.com/watch?v=6drq7qE-SDY"
+	},
+	{
+		"title": "Building the Edge of Connected Home - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=rRXASyBnxy8"
+	},
+	{
+		"title": "How to Optimize Amazon Elastic Block Store (EBS) for Higher Performance - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=zLGKZwUXvV8"
+	},
+	{
+		"title": "Learn How to Set up Business Calling and Voice Connector in Minutes with Amazon Chime",
+		"url": "https://www.youtube.com/watch?v=Y9tIt_BRUVk"
+	},
+	{
+		"title": "Start Your Engines and Get Ready to Race in the AWS DeepRacer League - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=0_rxa0ZqCDs"
+	},
+	{
+		"title": "AWS Fireside Chat: Modernize .NET Applications Using the Latest Features on AWS Development Tools",
+		"url": "https://www.youtube.com/watch?v=h6gMKCr-nLw"
+	},
+	{
+		"title": "Mastering Amazon DynamoDB ACID Transactions: When and How to Use the New Transactional APIs",
+		"url": "https://www.youtube.com/watch?v=gXo-Dl6bU9I"
+	},
+	{
+		"title": "Amazon S3 Glacier Deep Archive: The Cheapest Storage in the Cloud - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=km3GsOk_ukw"
+	},
+	{
+		"title": "Running .NET applications with AWS Elastic Beanstalk Windows Server Platform - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=miZT7Hr042k"
+	},
+	{
+		"title": "Selecting the Right Database for Your Application - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=6K0Sds9Y2N0"
+	},
+	{
+		"title": "Deep Dive on AWS App Mesh - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=_L376kq1tiI"
+	},
+	{
+		"title": "Application Load Balancers: Advanced Request Routing, Lambda as a Target, and User Authentication",
+		"url": "https://www.youtube.com/watch?v=Sdvp4qQ1rFA"
+	},
+	{
+		"title": "AWS Floor28 News - April - Hebrew",
+		"url": "https://www.youtube.com/watch?v=u7TOSKYImPA"
+	},
+	{
+		"title": "Industry 4.0 in the Cloud - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=VJHhiwj4vEk"
+	},
+	{
+		"title": "Deep Dive on Inventory Management and Configuration Compliance in AWS - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=_lnp6IN_W6Q"
+	},
+	{
+		"title": "Fireside Chat: Enabling Today's Workforce with Cloud Desktops - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=J7-ZXz91K2Q"
+	},
+	{
+		"title": "Deep Dive on OpenMPI and Elastic Fabric Adapter (EFA) - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=OqfH8LnsnWw"
+	},
+	{
+		"title": "Build a Robot Application with AWS RoboMaker - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=b7wzhSo4F_M"
+	},
+	{
+		"title": "AWS Floor28 News - March - Hebrew",
+		"url": "https://www.youtube.com/watch?v=a8xMBYUdBNQ"
+	},
+	{
+		"title": "Scaling Accounts and Permissions Management - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=vZMuC7xlWyw"
+	},
+	{
+		"title": "Remediating Amazon GuardDuty and AWS Security Hub Findings - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=nyh4imv8zuk"
+	},
+	{
+		"title": "Introduction to AWS Outposts - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=Cnn3BYsE6ug"
+	},
+	{
+		"title": "Speed Your Cloud Computing Journey With the Customer Enablement Services of AWS",
+		"url": "https://www.youtube.com/watch?v=2xJdYbHs5oc"
+	},
+	{
+		"title": "Technical Deep Dive: Running Amazon EC2 Workloads at Scale - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=sNT5PstZpS8"
+	},
+	{
+		"title": "How to Deploy AWS IoT Greengrass Using Docker Containers and Ubuntu Snap - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=wFeoKhVg-PM"
+	},
+	{
+		"title": "Application Acceleration and Protection with Amazon CloudFront, AWS WAF, and AWS Shield",
+		"url": "https://www.youtube.com/watch?v=0xlwLEccRe0"
+	},
+	{
+		"title": "Introducing a New Cost-Optimized Storage Class for Amazon EFS - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=E1eYLbNXJoY"
+	},
+	{
+		"title": "Deep Dive Into Container Networking - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=8E9PMT9sp9M"
+	},
+	{
+		"title": "Build Forecasts and Individualized Recommendations with AI - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=glSFmuAfRjE"
+	},
+	{
+		"title": "Building Scalable & Reliable Enterprise Apps with AWS Relational Databases - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=7_HYITspfso"
+	},
+	{
+		"title": "Extract Text and Data from Any Document with No Prior ML Experience - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=5g48uf5sCu8"
+	},
+	{
+		"title": "Running Kubernetes with Amazon EKS - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=-3FELDeZf_Q"
+	},
+	{
+		"title": "What's New in MySQL 8 - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=15KWB0XvnVM"
+	},
+	{
+		"title": "Machine Learning Powered Business Intelligence with Amazon QuickSight - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=iM5eeIclqJY"
+	},
+	{
+		"title": "Customer Showcase: Perform Real-time ETL from IoT Devices into your Data Lake with Amazon Kinesis",
+		"url": "https://www.youtube.com/watch?v=BkinvmBRFHY"
+	},
+	{
+		"title": "Introduction to Amazon Corretto: A No-Cost Distribution of OpenJDK - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=fTqhPvyAsfQ"
+	},
+	{
+		"title": "Migrating Oracle/SQL Server Databases to the Cloud using AWS's New Workload Qualification Framework",
+		"url": "https://www.youtube.com/watch?v=t8F4nRcFnAs"
+	},
+	{
+		"title": "Fuzzy Matching and Deduplicating Data with ML Transforms for AWS Lake Formation",
+		"url": "https://www.youtube.com/watch?v=g34xUaJ4WI4"
+	},
+	{
+		"title": "Testing and Deployment Best Practices for AWS Lambda-Based Applications - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=zJQDAsWm-5k"
+	},
+	{
+		"title": "Orchestrate Machine Learning Workflows with Amazon SageMaker and AWS Step Functions",
+		"url": "https://www.youtube.com/watch?v=dNb5jVffzPs"
+	},
+	{
+		"title": "What's New in PostgreSQL 11 - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=i1veTyQVFTg"
+	},
+	{
+		"title": "Transform the Modern Contact Center Using Machine Learning and Analytics - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=UEM_EcF_ISY"
+	},
+	{
+		"title": "Build AR/VR Apps with AWS: Creating a Multiplayer Game with Amazon Sumerian - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=y6hHHy9z0Vo"
+	},
+	{
+		"title": "Build your Machine Learning Datasets with Amazon SageMaker Ground Truth - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=PiDa6E36jnQ"
+	},
+	{
+		"title": "Enable Your Remote and Mobile Workforce with Amazon WorkLink - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=g9ykPf73hb4"
+	},
+	{
+		"title": "Office Hours: Cloud Ops Engineer - Answers for AWS Operations Pros - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=vyqXED0jwcc"
+	},
+	{
+		"title": "Maximize the Benefits of Migrating to the Cloud - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=dZUi8InI030"
+	},
+	{
+		"title": "Deploy and Scale Your First Cloud Application with Amazon Lightsail - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=l8bRhno-LEo"
+	},
+	{
+		"title": "Simplifying DNS for Hybrid Cloud with Route 53 Resolver - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=Rka2rs0J9BI"
+	},
+	{
+		"title": "Bring IoT and AI Together - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=hQ0Pe9roU34"
+	},
+	{
+		"title": "Introducing AWS Backup: Automate and Centralize Data Protection in the AWS Cloud",
+		"url": "https://www.youtube.com/watch?v=AI8hKeh7yCs"
+	},
+	{
+		"title": "What's New in Amazon EC2 - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=9pMJfOq_PsM"
+	},
+	{
+		"title": "Fireside Chat: DevOps at Amazon with Ken Exner, GM of AWS Developer Tools - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=FlZm3nFMIAM"
+	},
+	{
+		"title": "Deep Dive on Amazon FSx for Windows File Server: Running Windows on AWS - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=mSnvUhCZV8g"
+	},
+	{
+		"title": "Introduction to Amazon Forecast and Amazon Personalize - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=SwuguK4WmiY"
+	},
+	{
+		"title": "Introduction to Amazon DocumentDB (with MongoDB Compatibility) - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=gfzq2AjKsCI"
+	},
+	{
+		"title": "Train ML Models Once, Run Anywhere in the Cloud & at the Edge with Amazon SageMaker Neo",
+		"url": "https://www.youtube.com/watch?v=waKMyWUFvQY"
+	},
+	{
+		"title": "Build and Train Reinforcement Models with Amazon SageMaker RL - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=xGD6rkPuQ7Q"
+	},
+	{
+		"title": "Customer Showcase: Migration & Messaging for Mission Critical Apps with S&P Global Ratings",
+		"url": "https://www.youtube.com/watch?v=Z5CvI5yKA-E"
+	},
+	{
+		"title": "Best Practices for Serverless Queue Processing - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=SDAXRKwTQIk"
+	},
+	{
+		"title": "Securing Container Workloads on AWS Fargate - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=PkR2hu1HCCY"
+	},
+	{
+		"title": "Getting Started with AWS DeepRacer - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=gNmWrezkY0s"
+	},
+	{
+		"title": "Building Real-Time Applications with Redis - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=WhaDAnt6mx4"
+	},
+	{
+		"title": "Amazon Redshift Tips & Tricks: Scaling Storage and Compute Resources - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=ScWtlH-kHz4"
+	},
+	{
+		"title": "Deep Dive on Amazon Managed Blockchain - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=Zyv8OXyAdVk"
+	},
+	{
+		"title": "AWS Floor28 News - February - Hebrew",
+		"url": "https://www.youtube.com/watch?v=GCmXv4Fh5FY"
+	},
+	{
+		"title": "Deep Dive Into Lambda Layers and the Lambda Runtime API - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=gCQHulp3aVo"
+	},
+	{
+		"title": "Accelerate Serverless Development Using AWS SAM & the AWS Serverless Application Repository",
+		"url": "https://www.youtube.com/watch?v=AWJk7Ek9oOU"
+	},
+	{
+		"title": "Build Better Workloads with the AWS Well-Architected Framework and Tool - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=MfxF-FYEFjY"
+	},
+	{
+		"title": "Introducing AWS Key Management Service Custom Key Store - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=ksnHLFxgXcI"
+	},
+	{
+		"title": "Improve Your Application's Availability and Performance with AWS Global Accelerator",
+		"url": "https://www.youtube.com/watch?v=ZuYHiIWSglM"
+	},
+	{
+		"title": "Using AWS RoboMaker Simulation for Real World Applications - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=eQYUAMFvpLg"
+	},
+	{
+		"title": "How To Visually Develop IoT Applications with AWS IoT Things Graph - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=aGUhKwZp6lk"
+	},
+	{
+		"title": "The Amazon S3 Storage Classes - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=wFSv2gSQADI"
+	},
+	{
+		"title": "Customer Showcase: How Dow Jones Uses AWS to Create a Secure Perimeter Around Its Web Properties",
+		"url": "https://www.youtube.com/watch?v=Nqt_JDan7oc"
+	},
+	{
+		"title": "Increase Your Data Engineering Productivity Using Amazon EMR Notebooks - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=qv1ErFMmhC4"
+	},
+	{
+		"title": "Deep Dive Into AWS Cloud Map: Service Discovery for All Your Cloud Resources - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=0a-J_Ki_GwY"
+	},
+	{
+		"title": "Build Secure, Offline, and Real Time Enabled Mobile Apps Using AWS AppSync and AWS Amplify",
+		"url": "https://www.youtube.com/watch?v=_AdJGAVTTbg"
+	},
+	{
+		"title": "AWS Floor28 News - January",
+		"url": "https://www.youtube.com/watch?v=KQATDUhPjJI"
+	},
+	{
+		"title": "Virtual Workshop: Get Started with Machine Learning in the Cloud & at the Edge with AWS & Intel",
+		"url": "https://www.youtube.com/watch?v=RbaEosGwsy4"
+	},
+	{
+		"title": "How to Use \"Minimum Viable Refactoring\" to Achieve Post-Migration Operational Excellence",
+		"url": "https://www.youtube.com/watch?v=zdBpchFInr0"
+	},
+	{
+		"title": "Developing Deep Learning Models for Computer Vision w/ Amazon EC2 P3 Instances - AWS Tech Talks",
+		"url": "https://www.youtube.com/watch?v=58YLszT2Ay8"
+	},
+	{
+		"title": "Introduction to New AWS Services for Data Transfer - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=S7yOwF_2KcQ"
+	},
+	{
+		"title": "Introduction to AWS RoboMaker, a New Cloud Robotics Service - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=6z8t-r-yQIQ"
+	},
+	{
+		"title": "Introduction to Amazon FSx for Lustre - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=vjMwn00lIFg"
+	},
+	{
+		"title": "Introduction to AWS Transit Gateway - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=6fhwoAwYrug"
+	},
+	{
+		"title": "Introduction to New AWS IoT Services - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=99fjjuQqAhE"
+	},
+	{
+		"title": "AWS Israel News | Episode 2 | re:Invent",
+		"url": "https://www.youtube.com/watch?v=KnGrgWH2gwk"
+	},
+	{
+		"title": "Introduction to AWS Security Hub - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=o0NDi01YPXs"
+	},
+	{
+		"title": "What's New with AWS Storage - A Recap of re:Invent 2018 Announcements - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=BqmUQHHfDrI"
+	},
+	{
+		"title": "Introduction to Amazon Textract: Now in Preview - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=zt4dtbUYwCw"
+	},
+	{
+		"title": "Building Real Time Applications using WebSocket APIs Supported by Amazon API Gateway",
+		"url": "https://www.youtube.com/watch?v=3SCdzzD0PdQ"
+	},
+	{
+		"title": "Serverless Databases with Amazon Aurora and Amazon DynamoDB - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=SsrhYHLPDlE"
+	},
+	{
+		"title": "Introduction to Amazon Managed Streaming for Kafka (MSK) - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=9nKswHsLseY"
+	},
+	{
+		"title": "Introduction to Amazon FSx for Windows File Server - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=0b0EcA5nPho"
+	},
+	{
+		"title": "Introduction to AWS App Mesh - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=u1XmPdc3rc4"
+	},
+	{
+		"title": "What's New with Serverless at AWS - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=8lf3ryoUQR4"
+	},
+	{
+		"title": "Introduction to AWS DeepRacer - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=X_Jm8bMklHc"
+	},
+	{
+		"title": "Introduction to Amazon RDS on VMware - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=Pd5m19ohFrI"
+	},
+	{
+		"title": "Introduction to AWS Lake Formation - Build a Secure Data Lake in Days - Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=hXXytLly7tw"
+	},
+	{
+		"title": "Introducing Amazon SageMaker Ground Truth - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=vTp2uebmnwk"
+	},
+	{
+		"title": "Monitor the World: Meaningful Metrics for Containerized Apps and Clusters - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=Alw8Gyw_Zqk"
+	},
+	{
+		"title": "Save up to 90% on CI/CD Workloads with Amazon EC2 Spot Instances - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=O4uw7eIVrZs"
+	},
+	{
+		"title": "GraphQL Deep Dive - Designing Schemas and Automating Deployment - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=Bq2Q80JddiU"
+	},
+	{
+		"title": "Are Your Workloads Well-Architected? - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=whbBsq_jrm4"
+	},
+	{
+		"title": "Deep Dive on Amazon S3 Security and Management - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=vPgXx_zlEx0"
+	},
+	{
+		"title": "Enterprise DevOps: New Patterns of Efficiency - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=Yoa0sxfXDxw"
+	},
+	{
+		"title": "Work Without Workstations with AppStream 2.0 - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=cqHkBfk1ugI"
+	},
+	{
+		"title": "Using Amazon Lightsail to Create a Database - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=sDOlj-j5RZg"
+	},
+	{
+		"title": "Virtual Workshop: Amazon Elasticsearch Service - Analyze Your CloudTrail Logs",
+		"url": "https://www.youtube.com/watch?v=FnIi_NPqx5c"
+	},
+	{
+		"title": "Build and Orchestrate Serverless Applications on AWS with PowerShell - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=gq19mWUfDbc"
+	},
+	{
+		"title": "AWS Office Hours: Amazon GuardDuty Tips and Tricks - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=PcK-hG6LvBw"
+	},
+	{
+		"title": "Pushing Intelligence to the Edge in Industrial Applications - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=uEqSz_dBrrc"
+	},
+	{
+		"title": "Move From Tape Backups to AWS in 30 Minutes - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=wmVQ_HEIW4Y"
+	},
+	{
+		"title": "Best Practices for Scaling Amazon Redshift - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=QbOo78FGwnk"
+	},
+	{
+		"title": "Customer Showcase: How 99designs Used AWS Fargate to Manage their Containerized Application",
+		"url": "https://www.youtube.com/watch?v=42wH1nRKPT0"
+	},
+	{
+		"title": "Best Practices for Migrating Big Data Workloads to AWS - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=ARDJ2js8rBw"
+	},
+	{
+		"title": "Serverless Workflows for the Enterprise - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=T4RWwD5oHUc"
+	},
+	{
+		"title": "Scaling a Containerized Application Seamlessly with AWS Fargate - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=1xdEp-FR7lM"
+	},
+	{
+		"title": "How to re:Invent | Episode 8: Know Before You Go (AWS Online Tech Talks)",
+		"url": "https://www.youtube.com/watch?v=dnHP45vHDs0"
+	},
+	{
+		"title": "How to Create a Chatbot Using Amazon Sumerian and Sumerian Hosts - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=OGmy3E2kMok"
+	},
+	{
+		"title": "How to re:Invent | Episode 7: Getting Around the re:Invent Campus (AWS Online Tech Talks)",
+		"url": "https://www.youtube.com/watch?v=dDpqt7CU0hM"
+	},
+	{
+		"title": "Search Your DynamoDB Data with Amazon Elasticsearch Service - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=WXmghnE1_vU"
+	},
+	{
+		"title": "Modernize your SQL Server 2008/R2 Databases with AWS Database Services - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=UmvHhlspRZg"
+	},
+	{
+		"title": "Deep Dive on Bring Your Own IP - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=6G54JaQq5Go"
+	},
+	{
+		"title": "Running Cost Effective Batch Workloads w/ AWS Batch & Amazon EC2 Spot Instances",
+		"url": "https://www.youtube.com/watch?v=S1Vf4orJqcw"
+	},
+	{
+		"title": "Implementing Governance & Compliance in Multi-Account, Multi-Region Scenario - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=IyOfVxjDq6k"
+	},
+	{
+		"title": "Tape-to-Cloud Media Migration Walkthrough - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=Bujv_cVru0s"
+	},
+	{
+		"title": "Deep Dive: New AWS Storage Gateway Hardware Appliance - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=TX8kzraGYaU"
+	},
+	{
+		"title": "How to Use Amazon Linux WorkSpaces for Agile Development - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=UFaFZhON-Wo"
+	},
+	{
+		"title": "Migrating Microsoft SQL Server 2008 Databases to AWS - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=KsmaFGTRBVI"
+	},
+	{
+		"title": "How to Build Intelligent Web Applications @ Edge - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=NPjbHSRv2gE"
+	},
+	{
+		"title": "Using Asset Monitoring in Industrial IoT Applications - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=QP05Zsn0qSk"
+	},
+	{
+		"title": "Getting to Know AWS Secrets Manager - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=ydrcyy1nrQM"
+	},
+	{
+		"title": "Fireside Chat: The Evolution of Amazon Redshift - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=6PRRcwKBsUE"
+	},
+	{
+		"title": "Why and How to Migrate from Apache Cassandra to Amazon DynamoDB - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=WuDGvG_4kC8"
+	},
+	{
+		"title": "Build Enterprise-Grade Serverless Apps - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=l9Lw8y5P5ok"
+	},
+	{
+		"title": "Creating and Publishing AR, VR and 3D Applications with Amazon Sumerian - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=suxDrzZEtkQ"
+	},
+	{
+		"title": "Supercharge Query Caching with AWS Database Services - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=VEu7FDmhRsc"
+	},
+	{
+		"title": "Customer Showcase: The Secret Sauce Behind GroupM's Marketing Analytics Platform - Tech Talk",
+		"url": "https://www.youtube.com/watch?v=PEt7m0e41kw"
+	},
+	{
+		"title": "How to re:Invent | Episode 6: Mobile App & Reserved Seating (AWS Online Tech Talks)",
+		"url": "https://www.youtube.com/watch?v=PU6-eXaAKVI"
+	},
+	{
+		"title": "Threat Response Scenarios Using Amazon GuardDuty - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=LChSrke5U2o"
+	},
+	{
+		"title": "Fueling High Performance Computing (HPC) on AWS with GPUs - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=Xl5GhSO3CHo"
+	},
+	{
+		"title": "Hybrid Cloud Customer Use Cases on AWS: Part 2 - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=wEDbGYnsqAg"
+	},
+	{
+		"title": "Over-the-Air Updates with Amazon FreeRTOS - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=EInKJ8q1aPo"
+	},
+	{
+		"title": "Transforming Product Development with the Cloud - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=F9BEVNXuavo"
+	},
+	{
+		"title": "Introducing New Amazon EC2 T3 Instances - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=EmW0C6QPujE"
+	},
+	{
+		"title": "Deep Dive on Amazon Elastic File System (EFS) - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=LWiAwIa2H7c"
+	},
+	{
+		"title": "Ditch Your NAS! Move to Amazon EFS - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=usx682u-45U"
+	},
+	{
+		"title": "Integrating File Services to Power Your Media & Entertainment Workloads - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=Cx3zZhOFbI0"
+	},
+	{
+		"title": "Manage Security of Your IoT Devices with AWS IoT Device Defender - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=ER-6eR_gDVY"
+	},
+	{
+		"title": "Enhanced Security Analytics Using AWS WAF Full Logging - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=Zrnro4ohXdA"
+	},
+	{
+		"title": "Accelerating Product Development with HPC on AWS - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=ja_xYQU8hVg"
+	},
+	{
+		"title": "Build, Train and Deploy Machine Learning Models on AWS with Amazon SageMaker - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=R0vC31OXt-g"
+	},
+	{
+		"title": "New Innovations from Amazon Kinesis for Real-Time Analytics - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=FwFlFVBUSkU"
+	},
+	{
+		"title": "Fireside Chat: Relational Database Innovation at AWS - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=ViCzuCihPWI"
+	},
+	{
+		"title": "Automated Windows and Linux Patching - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=qd49Ahonhq4"
+	},
+	{
+		"title": "How Talroo Used AWS Fargate to Improve their Application Scaling - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=CarajwQKKFs"
+	},
+	{
+		"title": "Serverless Application Debugging and Delivery - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=w6tGKBGamqE"
+	},
+	{
+		"title": "Best Practices for Building Enterprise Grade APIs with Amazon API Gateway - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=9ElpSPXk-g8"
+	},
+	{
+		"title": "Scaling Your Redis Workloads with Redis Cluster - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=3Ovx5vJ17ws"
+	},
+	{
+		"title": "How to Integrate Natural Language Processing and Elasticsearch for Better Analytics - Tech Talks",
+		"url": "https://www.youtube.com/watch?v=v2ZF3IYNTzQ"
+	},
+	{
+		"title": "Applied Live Migration to DynamoDB from Cassandra - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=NIay_iY-hjs"
+	},
+	{
+		"title": "Secure Your Amazon Elasticsearch Service Domain - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=iunkVDfZZXQ"
+	},
+	{
+		"title": "Build Intelligent Applications with Machine Learning on AWS - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=JS3xm2BP0SA"
+	},
+	{
+		"title": "How to re:Invent | Episode 5: Deep Dive with Our Community Heroes and Jeff Barr",
+		"url": "https://www.youtube.com/watch?v=MY_uDdyS6V0"
+	},
+	{
+		"title": "AWS Office Hours: Amazon Aurora - Opening up the Hood on AWS' Fastest Growing Service - Tech Talks",
+		"url": "https://www.youtube.com/watch?v=NdEDRGLmnW4"
+	},
+	{
+		"title": "Data Transfer Services: AWS Snow Family Briefing - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=zyDDIyaCN6g"
+	},
+	{
+		"title": "High Performance Computing on AWS - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=pamsb-g6m94"
+	},
+	{
+		"title": "Building Serverless Web Applications with AWS Amplify - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=uiTQL7Ne8rY"
+	},
+	{
+		"title": "Migrating Microsoft Workloads Like an Expert - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=3zJgOkiseI8"
+	},
+	{
+		"title": "Hybrid Cloud Storage with AWS Storage Gateway & Amazon S3 - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=_PaDb0obstM"
+	},
+	{
+		"title": "AWS Office Hours: Backing up to AWS - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=1HYaET7QrMw"
+	},
+	{
+		"title": "Empower Your Organization with Alexa for Business - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=7Rn2M06Zj0Q"
+	},
+	{
+		"title": "Using Predictive Analytics in Industrial IoT Applications - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=bBJ2ISaGIyQ"
+	},
+	{
+		"title": "Automate Threat Mitigation Using AWS WAF and Amazon GuardDuty - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=eLQIVLTALDk"
+	},
+	{
+		"title": "Data Protection Best Practices with EBS Snapshots - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=88Kk80zUHIE"
+	},
+	{
+		"title": "Deep Dive on Amazon Athena - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=b7V7URHnoM0"
+	},
+	{
+		"title": "Distributed Tracing for Kubernetes Applications on AWS - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=TZRpWhFAXX0"
+	},
+	{
+		"title": "How to re:Invent | Episode 4: Inclusion & Diversity at re:Invent",
+		"url": "https://www.youtube.com/watch?v=VO-secbLPvE"
+	},
+	{
+		"title": "Deep Dive on Amazon Redshift - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=Hur-p3kGDTA"
+	},
+	{
+		"title": "Amazon CI/CD Practices for Software Development Teams - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=3HKbXz0RwSg"
+	},
+	{
+		"title": "Automate for Efficiency with AI Language Services - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=L02mW3EBSbU"
+	},
+	{
+		"title": "Serverless Streams, Topics, Queues, & APIs! Pick the Right Serverless Application Pattern",
+		"url": "https://www.youtube.com/watch?v=jL_Sje01A5M"
+	},
+	{
+		"title": "Accelerate Database Development and Testing on AWS - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=20xXnoQA2j4"
+	},
+	{
+		"title": "Optimizing PostgreSQL on AWS - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=bi0blhC8igg"
+	},
+	{
+		"title": "Machine Learning Models with TensorFlow Using Amazon SageMaker - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=HS7U6IugXmE"
+	},
+	{
+		"title": "Enterprise DevOps: Applying ITIL to Rapid Innovation - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=6SmocpAsL94"
+	},
+	{
+		"title": "Technical Deep Dive on Amazon EC2 Fleet - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=QX3PDkOqXLE"
+	},
+	{
+		"title": "Accelerate Machine Learning Workloads Using Amazon EC2 P3 Instances - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=HeTuYfoXWik"
+	},
+	{
+		"title": "Use Amazon Linux WorkSpaces to Build and Deploy Code Faster - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=9ygiKS3b5pw"
+	},
+	{
+		"title": "Using AWS IoT & Alexa Skills Kit to Voice-Control Connected Home Devices - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=3EfSx8_nyzc"
+	},
+	{
+		"title": "Get Started with Well-Architected Security Best Practices - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=jysDM2L1IN4"
+	},
+	{
+		"title": "Best Practices for Security in Amazon S3 - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=x4YQ-kWc2tI"
+	},
+	{
+		"title": "Multi-Tenant Analytics on Amazon EMR - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=_OFvpVW6eDI"
+	},
+	{
+		"title": "Introduction to Amazon QuickSight: Business Analytics for Everyone - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=WaOrQtxLXfs"
+	},
+	{
+		"title": "Build Intelligent Applications with Machine Learning on AWS - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=qCwH94INUFM"
+	},
+	{
+		"title": "How Harry's Shaved Off Their Operational Overhead by Moving to AWS Fargate - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=x7lQGc-x7II"
+	},
+	{
+		"title": "Optimize Your Jenkins Build Farm - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=YDOrsVJiDxA"
+	},
+	{
+		"title": "Getting Started with Serverless Computing Using AWS Lambda - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=IrRMEclU8kU"
+	},
+	{
+		"title": "Hyperparameter Tuning with Amazon SageMaker's Automatic Model Tuning - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=ynYnZywayC4"
+	},
+	{
+		"title": "Migrating IBM Db2 Databases to AWS - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=pm_LkmNqO5w"
+	},
+	{
+		"title": "Purpose-Built Databases: Choose the Right Tool for Each Job - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=clnz4oVaGlY"
+	},
+	{
+		"title": "Large Scale Machine Learning with Spark on EMR - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=2m_RS3oneI8"
+	},
+	{
+		"title": "Leveraging ML Services to Enhance Content Discovery and Recommendations - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=sJPsONqlcUE"
+	},
+	{
+		"title": "How to re:Invent | Episode 3: Training & Certification Round-Up",
+		"url": "https://www.youtube.com/watch?v=QKKvkhJARho"
+	},
+	{
+		"title": "Gaining Better Observability of Your VMs with Amazon CloudWatch - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=1Ck_me4azMw"
+	},
+	{
+		"title": "Ölçeklenebilir Web Uygulamaları İnşa Etmek",
+		"url": "https://www.youtube.com/watch?v=83hsIkL3uZA"
+	},
+	{
+		"title": "Big Data and Analytics Workloads on Amazon EFS - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=NxlPHlT3Pag"
+	},
+	{
+		"title": "End User Collaboration on AWS - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=wdNkERgoSjw"
+	},
+	{
+		"title": "Using Amazon Inspector to Discover Potential Security Issues - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=4P_J3OiH42g"
+	},
+	{
+		"title": "Deep Dive: Hybrid Cloud Storage with AWS Storage Gateway - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=ZwIHHEpHltU"
+	},
+	{
+		"title": "AWS IoT in the Connected Home - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=tKThetksvVI"
+	},
+	{
+		"title": "Ensuring Your Windows Server Workloads Are Well-Architected - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=fy8jomT8Hzc"
+	},
+	{
+		"title": "Understanding AWS Secrets Manager - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=Y3Gn_iP3FlE"
+	},
+	{
+		"title": "Accelerating Containerized Workloads with Amazon EC2 Spot Instances - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=Pr7HQFZpTx0"
+	},
+	{
+		"title": "AI-powered Social Sentiment Marketing with Amazon Pinpoint - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=Bncqqf3bg1M"
+	},
+	{
+		"title": "Moving your Containers to Amazon EKS - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=77RW-R6GkVk"
+	},
+	{
+		"title": "Insights For Everyone - Deploying Data across your Organization - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=lz52nb_3oiI"
+	},
+	{
+		"title": "Building Text Analytics Applications on AWS using Amazon Comprehend - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=T63LDIRbwxw"
+	},
+	{
+		"title": "Leading Your Team Through a Cloud Transformation - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=EY8O2VNN8M4"
+	},
+	{
+		"title": "Enabling New Retail Customer Experiences with Big Data - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=-HX-EI5uhsQ"
+	},
+	{
+		"title": "Optimizing Application Performance and Costs with Auto Scaling - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=S8BddpQCXUM"
+	},
+	{
+		"title": "Set Up a CI/CD Pipeline for Deploying Containers Using the AWS Developer Tools - Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=aI_cAR75aRU"
+	},
+	{
+		"title": "Launch AWS Faster using Automated Landing Zones - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=RSv9H59AsoI"
+	},
+	{
+		"title": "Productionize Serverless Application Building and Deployments with AWS SAM - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=1NU7vyJw9LU"
+	},
+	{
+		"title": "Integrating Amazon SageMaker into your Enterprise - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=7_pIUE4wjZI"
+	},
+	{
+		"title": "De-risking Enterprise Migration with AWS Managed Services - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=547J_kbfhs4"
+	},
+	{
+		"title": "Get Started with Real-Time Streaming Data in Under 5 Minutes - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=OmNIbjEU5us"
+	},
+	{
+		"title": "Oracle to Amazon Aurora Migration, Step by Step - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=n5K_FfrFjLo"
+	},
+	{
+		"title": "How to re:Invent | Episode 2: AWS re:Invent Breakout Content Secret Sauce (AWS Online Tech Talks)",
+		"url": "https://www.youtube.com/watch?v=EoDdlaXYzuY"
+	},
+	{
+		"title": "Learn to Build a Cloud-Scale Website Powered by Amazon EFS - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=I9PiE-P6ddw"
+	},
+	{
+		"title": "Introducing AWS Firewall Manager - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=1nir_Mdy3bQ"
+	},
+	{
+		"title": "Using AWS IoT for Industrial Applications - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=X7q8V7lTmKU"
+	},
+	{
+		"title": "Making Private Connectivity the New Norm via AWS PrivateLink - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=5U44o5vWuT4"
+	},
+	{
+		"title": "Accelerating Life Sciences with HPC on AWS - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=fscMSO_vQ7o"
+	},
+	{
+		"title": "Accelerate Productivity by Computing at the Edge - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=wdlTDFOKM4k"
+	},
+	{
+		"title": "Introducing AWS Certificate Manager Private Certificate Authority (CA) - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=nDDBcP-iiSs"
+	},
+	{
+		"title": "Building API-Driven Microservices with Amazon API Gateway - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=xkDcBssNd1g"
+	},
+	{
+		"title": "Creating and Managing a WordPress Website with Amazon Lightsail - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=ljJlxccq-xg"
+	},
+	{
+		"title": "Deep Dive on Amazon Pinpoint Segmentation and Endpoint Management - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=epyxK6iCzZY"
+	},
+	{
+		"title": "Building Microservices with the 12 Factor App Pattern on AWS - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=2SxKKDXKrXQ"
+	},
+	{
+		"title": "Data Transformation Patterns in AWS - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=YdmcFyjrhYI"
+	},
+	{
+		"title": "10 Hacks for Optimizing MySQL in the Cloud - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=XT4iSTZJgCQ"
+	},
+	{
+		"title": "Data Warehousing and Data Lake Analytics, Together - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=w3Y5QOldqJs"
+	},
+	{
+		"title": ".NET Serverless Development on AWS - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=IBeqDaMDjf0"
+	},
+	{
+		"title": "Hybrid Cloud Customer Use Cases on AWS - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=5Shl1RYE34E"
+	},
+	{
+		"title": "Using Apache Spark with Amazon SageMaker - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=dada2WzCNPM"
+	},
+	{
+		"title": "Introducing AWS DeepLens - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=9fHAXqcUjy8"
+	},
+	{
+		"title": "How to Migrate from Cassandra to Amazon DynamoDB - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=3uuibqK8IJs"
+	},
+	{
+		"title": "Integrating Amazon Elasticsearch with your DevOps Tooling - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=E2SeK-tvMTE"
+	},
+	{
+		"title": "How to re:Invent | Episode 1: re:Invent 2018 - What's New? (AWS Online Tech Talks)",
+		"url": "https://www.youtube.com/watch?v=v_SezqdbLTg"
+	},
+	{
+		"title": "And Beyond: Amazon Sagemaker | Hebrew Webinar",
+		"url": "https://www.youtube.com/watch?v=kQoB2HEY96U"
+	},
+	{
+		"title": "Integrating On-Premises Vendors with AWS for Backup - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=BlRS-giRSH8"
+	},
+	{
+		"title": "Go!: Building your own ChatBot with Amazon Lex | Hebrew Webinar",
+		"url": "https://www.youtube.com/watch?v=e00RbMMZa94"
+	},
+	{
+		"title": "Protect Your Game Servers from DDoS Attacks - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=WI4EVgShkn0"
+	},
+	{
+		"title": "Customer Showcase: Taking Serverless to the Edge - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=5m8oFxH_Ryk"
+	},
+	{
+		"title": "Offline GraphQL Apps with AWS AppSync - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=MD6GaLT8PnE"
+	},
+	{
+		"title": "Amazon GuardDuty - Let's Attack My Account! - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=f7RB6k7cP6k"
+	},
+	{
+		"title": "Deep Dive on Amazon EC2 Accelerated Computing - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=z5M-ahXYu3o"
+	},
+	{
+		"title": "Best Practices for Running Amazon EC2 Spot Instances with Amazon EMR - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=FyY_Lyc5Ddg"
+	},
+	{
+		"title": "How to Easily and Securely Connect Devices to AWS IoT - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=FADeK-X8DnQ"
+	},
+	{
+		"title": "How to Bring Microsoft Apps to AWS - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=DH7NJcG2jak"
+	},
+	{
+		"title": "Building Data Lakes That Cost Less and Deliver Results Faster - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=IQ7ifDInA_E"
+	},
+	{
+		"title": "Set: What is ML for developers? | Hebrew Webinar",
+		"url": "https://www.youtube.com/watch?v=ox841nwqCzE"
+	},
+	{
+		"title": "Ready: Introduction to AI on AWS | Hebrew Webinar",
+		"url": "https://www.youtube.com/watch?v=k5G-ihj0iEY"
+	},
+	{
+		"title": "Deploy your Desktops and Apps on AWS - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=0hJdq62SbUw"
+	},
+	{
+		"title": "An Overview of Best Practices of Large-Scale Migrations - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=GUbp8rnHY8E"
+	},
+	{
+		"title": "New Features for Building Powerful Containerized Microservices on AWS - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=WLD7wqJzKEw"
+	},
+	{
+		"title": "ElastiCache: Deep Dive Best Practices and Usage Patterns - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=OeCzNhsV1OY"
+	},
+	{
+		"title": "Perform Machine Learning at the IoT Edge using AWS Greengrass and Amazon Sagemaker - Tech Talk",
+		"url": "https://www.youtube.com/watch?v=reGMxkZhp-M"
+	},
+	{
+		"title": "Debug your Container and Serverless Applications with AWS X-Ray in 5 Minutes - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=YhIBVzSEDpo"
+	},
+	{
+		"title": "Intro to Open Source Databases on AWS - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=NJa0_XKFRF0"
+	},
+	{
+		"title": "Tips and Tricks for Building and Deploying Serverless Apps In Minutes - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=FSr7ToE_hz8"
+	},
+	{
+		"title": "Automate for Efficiency with Amazon Transcribe and Amazon Translate - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=0ibJUauXoqE"
+	},
+	{
+		"title": "\"En Doğru Yöntemler ile AWS’i Kullanmaya Başlama\" | Webinar in Turkish |March 29, 2018",
+		"url": "https://www.youtube.com/watch?v=7iP4_i5Lo5s"
+	},
+	{
+		"title": "Improve Efficiency by Migrating Messaging to Amazon MQ - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=IzCdl-D3-mk"
+	},
+	{
+		"title": "The Evolution of Identity and Access Management on AWS - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=2apSeOjDwZo"
+	},
+	{
+		"title": "Navigating GDPR Compliance on AWS - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=113PCU8Ef6s"
+	},
+	{
+		"title": "Deep Dive on Amazon Athena - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=Gn7lxQiSZPQ"
+	},
+	{
+		"title": "High Performance Computing in the Cloud - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=m7xTGuDVVsw"
+	},
+	{
+		"title": "Deep Dive on New AWS Networking Features - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=b1gq9jTqInA"
+	},
+	{
+		"title": "Introduction to Hybrid Cloud on AWS - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=WtFg68Z6iwI"
+	},
+	{
+		"title": "Enterprise Applications with Amazon EFS - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=ylcWpcxkSbQ"
+	},
+	{
+		"title": "Media Processing Workflows at High Velocity and Scale using ML - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=BJm5HabJjsI"
+	},
+	{
+		"title": "Transforming Data Lakes with Amazon S3 Select & Amazon Glacier Select - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=1MjTuaVBVmk"
+	},
+	{
+		"title": "Enabling Deep Learning in IoT Applications with Apache MXNet - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=kWgCbjtsAAM"
+	},
+	{
+		"title": "Learn Step by Step How iDevices Uses AWS IoT Analytics - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=so__4NuLV1M"
+	},
+	{
+		"title": "New Mobile CLI and Console Experience - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=3NSU2dUEQ24"
+	},
+	{
+		"title": "Life of a Code Change to a Tier 1 Service - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=WgcFt9JvL3U"
+	},
+	{
+		"title": "Best Practices for Migrating Oracle Databases to the Cloud - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=VeGrQelhMbI"
+	},
+	{
+		"title": "Amazon Elasticsearch Service Deep Dive - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=SOTFnRezIH0"
+	},
+	{
+		"title": "Working with Scalable Machine Learning Algorithms in Amazon SageMaker - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=aFE_tejgegU"
+	},
+	{
+		"title": "Operating Your Serverless API in Production at Scale - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=EpxO8wo9tA4"
+	},
+	{
+		"title": "Running Kubernetes with Amazon EKS - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=rV_NCvs9iGE"
+	},
+	{
+		"title": "Achieving Global Consistency Using AWS CloudFormation StackSets - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=4paIhD2VzKA"
+	},
+	{
+		"title": "AWS Services for Data Migration - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=hgmFoRf33uA"
+	},
+	{
+		"title": "How to Secure Sensitive Customer Data Using Amazon CloudFront - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=Ygq4u0B0rF0"
+	},
+	{
+		"title": "Introduction to Microsoft Workloads on AWS - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=cu6uZp-qBt4"
+	},
+	{
+		"title": "Deep Dive on AWS Migration Hub - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=QSdhrjaFZeI"
+	},
+	{
+		"title": "Building High Availability Apps on Lightsail: Load Balancing and Block Storage",
+		"url": "https://www.youtube.com/watch?v=By8y9HFUGPM"
+	},
+	{
+		"title": "Disaster Recovery Options with AWS (with Live Demos) - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=lK_t_dhUh5I"
+	},
+	{
+		"title": "Deep Dive on Amazon GuardDuty - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=o2YaIsps5LY"
+	},
+	{
+		"title": "Building an Immersive VR Streaming Solution on AWS - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=AwxXL2-zDbI"
+	},
+	{
+		"title": "Be an SAP HANA Super Hero - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=40IQdla2fr8"
+	},
+	{
+		"title": "Manage IoT Devices throughout Their Lifecycle - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=8xsuOw0jw00"
+	},
+	{
+		"title": "Introduction to AWS AppSync and GraphQL - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=olAPj6EIlag"
+	},
+	{
+		"title": "Introducing Amazon SageMaker - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=CxN3UHf3dL0"
+	},
+	{
+		"title": "What’s New for Amazon DynamoDB - 2018 Q1 Update - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=C6c1Ys_1M0M"
+	},
+	{
+		"title": "Social Media Analytics using Amazon QuickSight - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=wwOQvjogc7Q"
+	},
+	{
+		"title": "Continuous Integration Best Practices for Software Development Teams - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=fTHZF2SOHAc"
+	},
+	{
+		"title": "Become a Serverless Black Belt - Optimizing Your Serverless Applications - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=4nrRt0dOcFk"
+	},
+	{
+		"title": "How to Enhance your Application using Amazon Comprehend for NLP - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=j46iNUgBvF4"
+	},
+	{
+		"title": "Introducing Performance Insights - Cloud-Based Database Performance Monitoring",
+		"url": "https://www.youtube.com/watch?v=odLQn2G3vdI"
+	},
+	{
+		"title": "The Nitro Project: Next-Generation EC2 Infrastructure - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=eWFEJmsddV0"
+	},
+	{
+		"title": "How to Build a Data Lake in Amazon S3 & Amazon Glacier - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=emh69kGBiW0"
+	},
+	{
+		"title": "Introducing Managed Rules for AWS WAF (with a Customer Story) - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=gq7heA-SXq4"
+	},
+	{
+		"title": "Scaling Your Production Application with Amazon Lightsail - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=1_SRI2ETHV4"
+	},
+	{
+		"title": "Deep Dive on AWS Single Sign-On - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=8jyhsnh0ALQ"
+	},
+	{
+		"title": "Introducing the New Simplified Access Model for EC2 Spot Instances - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=7tp9lZK8ZD4"
+	},
+	{
+		"title": "Deep Dive on AWS PrivateLink - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=IRHxy-vwjPA"
+	},
+	{
+		"title": "Preparing Your Team for a Cloud Transformation - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=bmnVBpEK1f8"
+	},
+	{
+		"title": "Improving Backup & DR – AWS Storage Gateway - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=krpzxDAlOdA"
+	},
+	{
+		"title": "Achieving Business Value with AWS - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=-AClOpVKcBQ"
+	},
+	{
+		"title": "Introducing Amazon SageMaker - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=wPmSky1i_Ic"
+	},
+	{
+		"title": "Secure Cloud & Local Connectivity for Microcontroller-based Devices - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=rR5BDYDul5E"
+	},
+	{
+		"title": "Ionic and React Hybrid Web/Native Mobile Applications with Mobile Hub - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=iZws_5qzfD4"
+	},
+	{
+		"title": "Security Best Practices on AWS | Hebrew Webinar",
+		"url": "https://www.youtube.com/watch?v=aArLg4oTQ98"
+	},
+	{
+		"title": "Introducing AWS Fargate - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=wrZvlJlcZio"
+	},
+	{
+		"title": "Introducing Amazon Aurora with PostgreSQL Compatibility - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=P6wDcAMSfjU"
+	},
+	{
+		"title": "How to Get the Most Out of Amazon Rekognition Video - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=KSFpLhJkrW0"
+	},
+	{
+		"title": "Deep Dive - Amazon Kinesis Video Streams - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=EzxRtfSKlUA"
+	},
+	{
+		"title": "Overview of Serverless Application Deployment Patterns - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=k0qPbUYY-XU"
+	},
+	{
+		"title": "Introducing AWS Cloud9 - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=FvclLeg2vEQ"
+	},
+	{
+		"title": "Module 2: VPC, EC2, Demo - AWSome Day 2018",
+		"url": "https://www.youtube.com/watch?v=xToY64aiCgc"
+	},
+	{
+		"title": "Module 1: AWS and Cloud Computing, Foundational Services, and Platform Services - AWSome Day 2018",
+		"url": "https://www.youtube.com/watch?v=K3qbY8j_Qfs"
+	},
+	{
+		"title": "Deep Dive on Amazon Neptune - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=rsAKj7sMbbQ"
+	},
+	{
+		"title": "Analyze your Data Lake, Fast @ Any Scale - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=bwM4pj57mC0"
+	},
+	{
+		"title": "AWS Israel News  | Episode 1",
+		"url": "https://www.youtube.com/watch?v=jHRPbuD3kZ8"
+	},
+	{
+		"title": "Disaster Recovery on AWS | Hebrew Webinar",
+		"url": "https://www.youtube.com/watch?v=Y4r_e6_NiA8"
+	},
+	{
+		"title": "Essential Capabilities of an IoT Cloud Platform - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=OKZ0b-39f2g"
+	},
+	{
+		"title": "VMware Cloud on AWS: Networking and Storage Best Practices - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=aoTd-TBBIGI"
+	},
+	{
+		"title": "Moving your File Data to Amazon EFS - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=_snUm9g5jG0"
+	},
+	{
+		"title": "Cloud Native DDoS Mitigation - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=JiT6Nu-Y3kU"
+	},
+	{
+		"title": "New Features in Amazon S3 & Glacier - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=CiBd2zbHPAU"
+	},
+	{
+		"title": "Getting Started with ML in AdTech - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=KY0oinhLUYU"
+	},
+	{
+		"title": "Commercial Management and Cost Optimization on AWS - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=JAn_Fbl6Gbg"
+	},
+	{
+		"title": "Deep Dive on New Amazon EC2 Instances and Virtualization Technologies",
+		"url": "https://www.youtube.com/watch?v=R-n4dDGfQd4"
+	},
+	{
+		"title": "Containers on AWS: What You Missed at re:Invent 2017 - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=e_5olTyjTCU"
+	},
+	{
+		"title": "Centrally Protect Your AWS Resources with Amazon GuardDuty  - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=t80i_B-7G1M"
+	},
+	{
+		"title": "VMware Cloud on AWS: A Technical Deep Dive - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=p_UD13ptDuA"
+	},
+	{
+		"title": "Migrating Microsoft SQL to AWS - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=WeXXtBNtwxk"
+	},
+	{
+		"title": "Elastic Load Balancing Deep Dive - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=bjehc2K5gyA"
+	},
+	{
+		"title": "Launch Applications the Amazon Way - AWS Online Tech Talk",
+		"url": "https://www.youtube.com/watch?v=fYxOd-awKXE"
+	},
+	{
+		"title": "Scaling Redis Workloads with Amazon ElastiCache - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=gPNSYnxl6Ms"
+	},
+	{
+		"title": "User Based Multi Channel Engagement using Amazon Pinpoint and Amazon Cognito",
+		"url": "https://www.youtube.com/watch?v=e2lrbD0P8D8"
+	},
+	{
+		"title": "Run Your HPC Workload at Scale for a Fraction of the Cost",
+		"url": "https://www.youtube.com/watch?v=yG09kT78Rig"
+	},
+	{
+		"title": "Deploying Business Analytics at Enterprise Scale",
+		"url": "https://www.youtube.com/watch?v=7Nwhyh5paek"
+	},
+	{
+		"title": "Leveraging APIs to build custom apps on X Ray - 2017 AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=4KZd1LeU-fs"
+	},
+	{
+		"title": "Serverless Applications at Global Scale with Multi Regional Deployments - 2017 AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=QTfyTEVrNog"
+	},
+	{
+		"title": "Storage & Backup on AWS | Hebrew webinar",
+		"url": "https://www.youtube.com/watch?v=Do04sraFXgg"
+	},
+	{
+		"title": "AWS ile Bulut Servislerine Baslangic",
+		"url": "https://www.youtube.com/watch?v=A84rZVUYkeM"
+	},
+	{
+		"title": "Hands on Lab: Deploy  .NET Code to AWS from Visual Studio - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=iCCsOuLY2GI"
+	},
+	{
+		"title": "Building Serverless Websites with Lambda@Edge - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=Sv1_0BvqnlY"
+	},
+	{
+		"title": "Bringing Characters to Life with Amazon Polly Text to Speech - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=4gsx7EeMxWs"
+	},
+	{
+		"title": "Disaster Recovery Options with AWS - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=2Bkt7MssTlE"
+	},
+	{
+		"title": "How to Integrate AWS Directory Service with Office365 - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=gSXLxqnjUSA"
+	},
+	{
+		"title": "Everything About Licensing Windows Workloads on AWS - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=oAcyUg0GXdQ"
+	},
+	{
+		"title": "Sentiment Analysis Using Apache MXNet and Gluon - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=4PbSZRYXa3o"
+	},
+	{
+		"title": "Essential Capabilities IoT Cloud Platform - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=k8XtS71_XjM"
+	},
+	{
+		"title": "AWS re:Invent - 2017 Know Before You Go - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=6byvOx-1Qo8"
+	},
+	{
+		"title": "Amazon Elasticsearch Service Security Deep Dive & VPC - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=lY5olliJ16E"
+	},
+	{
+		"title": "Migrating Your Oracle Database to PostgreSQL  - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=cwT4_uT7OHw"
+	},
+	{
+		"title": "Managing Container Images with Amazon ECR - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=JAlD2fNOPB4"
+	},
+	{
+		"title": "Simplify Microsoft Windows Server Management with Amazon Lightsail - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=XZ65yY9jevM"
+	},
+	{
+		"title": "Run Your CI/CD Pipeline at Scale for a Fraction of the Cost - AWS Online Tech Talk",
+		"url": "https://www.youtube.com/watch?v=bWmOEQWg77g"
+	},
+	{
+		"title": "Deep Dive on Amazon SES What's New - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=M5FKOuO75gU"
+	},
+	{
+		"title": "Set it and Forget it Auto Scaling Target Tracking Policies - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=srofVz6xvkE"
+	},
+	{
+		"title": "Real-time Application Monitoring with Amazon Kinesis and Amazon CloudWatch - Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=EVqYeQiKggY"
+	},
+	{
+		"title": "How to Manage Organizational Change and Cultural Impact During a Cloud Transformation",
+		"url": "https://www.youtube.com/watch?v=2WmDQG3vp0c"
+	},
+	{
+		"title": "Using the New Network Load Balancer with Amazon ECS - 2017 AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=ekxSiLYwHfo"
+	},
+	{
+		"title": "Consolidate MySQL Shards Into Amazon Aurora Using AWS Database Migration Service - AWS Tech Talks",
+		"url": "https://www.youtube.com/watch?v=4Q2yqIPZsoQ"
+	},
+	{
+		"title": "Deploy Compliance Controls When Archiving Large Scale Data Stores - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=HRaBJe1-96w"
+	},
+	{
+		"title": "Working Together, Simplified with Amazon Chime - 2017 AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=IBjrQcVcNRY"
+	},
+	{
+		"title": "Dev & Test on the AWS Cloud | Hebrew Webinar",
+		"url": "https://www.youtube.com/watch?v=otu_QACjwVs"
+	},
+	{
+		"title": "Replacing Tape Backups with AWS Storage Gateway - 2017 AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=x49xEZU77sY"
+	},
+	{
+		"title": "CloudHSM: Secure Scalable Key Storage in AWS - 2017 AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=hEVks207ALM"
+	},
+	{
+		"title": "Working with Amazon Lex Chatbots in Amazon Connect - 2017 AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=rLw2oXEKJG8"
+	},
+	{
+		"title": "Precipitating the Cloud: Local IoT Framework with Intel® and AWS Greengrass - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=OrfRWeDPDM4"
+	},
+	{
+		"title": "Deep Learning on AWS with TensorFlow - 2017 AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=vTAMSm06baA"
+	},
+	{
+		"title": "Are You Well-Architected? - 2017 AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=L8yKf3jvZTY"
+	},
+	{
+		"title": "Serverless Analytics - Amazon Redshift Spectrum, AWS Glue, and Amazon QuickSight",
+		"url": "https://www.youtube.com/watch?v=fORJ6y572gs"
+	},
+	{
+		"title": "Running Rendering Workloads on AWS with Deadline - 2017 AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=cJBYNVIYWsw"
+	},
+	{
+		"title": "Remove Undifferentiated Heavy Lifting from Jenkins - 2017 AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=Ov2A6SEn06c"
+	},
+	{
+		"title": "Real-time Analytics using Data from IoT Devices - 2017 AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=WjgL2xu0cno"
+	},
+	{
+		"title": "Reserved Seating / Mobile App at AWS re:Invent 2017 - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=AOVIvcQQ0io"
+	},
+	{
+		"title": "AWS Greengrass Technical Deep Dive with Demo - 2017 AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=1N7Y_gxZ9Wg"
+	},
+	{
+		"title": "How to use AWS WAF to Mitigate OWASP Top 10 attacks - 2017 AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=uIGXYtBWaA0"
+	},
+	{
+		"title": "Advanced DNS Traffic Management using Amazon Route 53 - 2017 AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=PcoQY82SDHw"
+	},
+	{
+		"title": "Deep Dive on Amazon EFS with Encryption - 2017 AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=1NyXDEzOI-A"
+	},
+	{
+		"title": "Securing Your Desktops with Amazon WorkSpaces - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=E3uRAGoKqSs"
+	},
+	{
+		"title": "Revolutionizing Backup & Recovery Using Amazon S3 - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=rQGvgSRiBoU"
+	},
+	{
+		"title": "Introduction to Generative Adversarial Networks (GAN) with Apache MXNet - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=4fQRoBz0BnM"
+	},
+	{
+		"title": "AI An Overview of AI on the AWS Platform - 2017 AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=I4ztd3KdWhQ"
+	},
+	{
+		"title": "How TLG Aerospace Saved 75% with Amazon EC2 Spot Instances",
+		"url": "https://www.youtube.com/watch?v=Aihlcjft90E"
+	},
+	{
+		"title": "Building Scalable Web Apps | Hebrew Webinar",
+		"url": "https://www.youtube.com/watch?v=x_NKXpncsp0"
+	},
+	{
+		"title": "Migrating Your Oracle Database to PostgreSQL - 2017 AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=HFBWsf1KZ-w"
+	},
+	{
+		"title": "Configuration Management in the Cloud - 2017 AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=wG5APn8To9Q"
+	},
+	{
+		"title": "Best Practices for Processing Managed Hadoop Workloads - 2017 AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=mRVSSPt1Urc"
+	},
+	{
+		"title": "Tackle Your Dark Data Challenge with AWS Glue - 2017 AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=Q0m2TligKtE"
+	},
+	{
+		"title": "Using AWS Batch and AWS Step Functions to Design and Run High Throughput Workflows",
+		"url": "https://www.youtube.com/watch?v=J2okYgOhafQ"
+	},
+	{
+		"title": "Deep Dive on MySQL Databases on AWS - 2017 AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=kc11FGwb6QE"
+	},
+	{
+		"title": "Using CloudTrail to enhance compliance and governance of S3",
+		"url": "https://www.youtube.com/watch?v=N60r5cMXjSY"
+	},
+	{
+		"title": "Deep Dive on User Sign-up and Sign-in with Amazon Cognito",
+		"url": "https://www.youtube.com/watch?v=KWjgiNgDfwI"
+	},
+	{
+		"title": "What's New with Amazon DynamoDB - September 2017",
+		"url": "https://www.youtube.com/watch?v=ipQMDX9nE64"
+	},
+	{
+		"title": "Managing Secrets for Containers with Amazon ECS",
+		"url": "https://www.youtube.com/watch?v=5gBk6TZJ3jo"
+	},
+	{
+		"title": "Get Ready for re:Invent 2017 Content Overview",
+		"url": "https://www.youtube.com/watch?v=aIngAvWk0gY"
+	},
+	{
+		"title": "Local Testing and Deployment Best Practices for Serverless Applications",
+		"url": "https://www.youtube.com/watch?v=QRSc1dL-I4U"
+	},
+	{
+		"title": "Visualizing Amazon S3 Storage Management with Quicksight - 2017 AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=4vmL05KVqTA"
+	},
+	{
+		"title": "Best Practices for Using AWS Identity and Access Management (IAM) Roles",
+		"url": "https://www.youtube.com/watch?v=DyHrppoArKQ"
+	},
+	{
+		"title": "Using Jupyter Notebooks to Run Deep Learning Algorithms - 2017 AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=R6yex9kbt50"
+	},
+	{
+		"title": "Developing Applications with the IoT Button - 2017 AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=kryjuanluKA"
+	},
+	{
+		"title": "Integrate Your Amazon Lex Chatbot with Any Messaging Service - 2017 AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=ouG8j30vTMI"
+	},
+	{
+		"title": "How to Deploy .NET Code to AWS from Within Visual Studio",
+		"url": "https://www.youtube.com/watch?v=pgRzdZeNxD8"
+	},
+	{
+		"title": "Building a Python Serverless Applications with AWS Chalice",
+		"url": "https://www.youtube.com/watch?v=oK-ecv0HL6M"
+	},
+	{
+		"title": "Auto Scaling in Amazon DynamoDB - 2017 AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=TXjanzQOxfE"
+	},
+	{
+		"title": "Deep Dive on Lambda@Edge - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=3O4JyyFcVIw"
+	},
+	{
+		"title": "Conversational Mobile App Interfaces with Lex and Mobile Hub - 2017 AWS Online Tech Talk",
+		"url": "https://www.youtube.com/watch?v=LBwUQ_kG5Z0"
+	},
+	{
+		"title": "Distributed Stack Tracing and Monitoring for Serverless Applications - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=_-ZeSN33kJ8"
+	},
+	{
+		"title": "Edge Services Critical AWS Infrastructure Component Notes - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=TlOayrM7q-Y"
+	},
+	{
+		"title": "Save 90% on Your Containerized Workloads - 2017 AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=yLpDczIRJSQ"
+	},
+	{
+		"title": "Best Practices for Getting Started with AWS | Hebrew Webinar",
+		"url": "https://www.youtube.com/watch?v=i9AOaIG6Q1k"
+	},
+	{
+		"title": "What is Cloud Computing with AWS? | Hebrew Webinar",
+		"url": "https://www.youtube.com/watch?v=FNFRlHfVM6w"
+	},
+	{
+		"title": "Serverless Orchestration with AWS Step Functions - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=8rmgF-SbcIk"
+	},
+	{
+		"title": "Emerging Prevalence of Data Streaming in Analytics and it's Business Significance",
+		"url": "https://www.youtube.com/watch?v=-L0WIMY_gaU"
+	},
+	{
+		"title": "Hands on Lab: Introduction to Microsoft SQL Server in AWS - 2017 AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=fIZZC0Uy9Eo"
+	},
+	{
+		"title": "Security Best Practices for Serverless Applications  - 2017 AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=AV24RTvbgWA"
+	},
+	{
+		"title": "Windows Workloads on AWS - 2017 AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=0AmkaIt4Sjk"
+	},
+	{
+		"title": "Integrating Security Assessments Into DevOps Cycle with Amazon Inspector - AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=cR1kzLASfDE"
+	},
+	{
+		"title": "Driving User Engagement with Amazon Pinpoint - 2017 AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=5SLr0cRydxA"
+	},
+	{
+		"title": "Decouple and Scale Applications Using Amazon SQS and Amazon SNS - 2017 AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=UesxWuZMZqI"
+	},
+	{
+		"title": "Secure Web Applications with AWS Web Application Firewall (WAF) and AWS Shield",
+		"url": "https://www.youtube.com/watch?v=W01f7g7slHw"
+	},
+	{
+		"title": "Building Metadata Catalogs for Data Lakes with Elasticsearch Service - 2017 AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=bC7aJN5L6po"
+	},
+	{
+		"title": "Managing WordPress on Amazon Lightsail - 2017 AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=bYgYcYm-quA"
+	},
+	{
+		"title": "Deep Dive on Amazon S3 - 2017 AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=0mcwC3OdL78"
+	},
+	{
+		"title": "Design, Deploy, and Optimize SQL Server on AWS - 2017 AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=TzOlR7IGgXY"
+	},
+	{
+		"title": "Scalable Immersive Media Solutions on AWS Using EC2 Spot Instances",
+		"url": "https://www.youtube.com/watch?v=H6e6vkmJrGo"
+	},
+	{
+		"title": "Amazon Cognito Public Beta: Built-in UI for User Sign-up/in and SAML Federation",
+		"url": "https://www.youtube.com/watch?v=h_ZQzWns8cg"
+	},
+	{
+		"title": "Cloud Backup & Recovery Options with AWS Partner Solutions - 2017 AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=35bYfRr4wZk"
+	},
+	{
+		"title": "Deep Learning for Data Scientists: Using Apache MXNet and R on AWS",
+		"url": "https://www.youtube.com/watch?v=9IrvDHRQaaA"
+	},
+	{
+		"title": "Building Big Data Applications with Serverless Architectures - 2017 AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=IvBEkzRiW34"
+	},
+	{
+		"title": "Using Microsoft Active Directory across On-premises and Cloud Workloads",
+		"url": "https://www.youtube.com/watch?v=fQf_GD39T2c"
+	},
+	{
+		"title": "Batch Processing with Containers on AWS - 2017 AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=w7YEYiRH-Ds"
+	},
+	{
+		"title": "Real-Time Log Analytics using Amazon Kinesis and Amazon Elasticsearch Service",
+		"url": "https://www.youtube.com/watch?v=NfkGpjrdy_Y"
+	},
+	{
+		"title": "Create, with Intel, an IoT Gateway and Establish a Data Pipeline to AWS IoT",
+		"url": "https://www.youtube.com/watch?v=ORBYNJY8iRI"
+	},
+	{
+		"title": "DevOps with Visual Studio, .NET and AWS - 2017 AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=FNY_Sqs41_g"
+	},
+	{
+		"title": "Exploring the Business Use Cases for Amazon Machine Learning - 2017 AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=oGEa0M7CvOQ"
+	},
+	{
+		"title": "AWS CodeStar: Develop, Build, and Deploy applications on AWS - 2017 AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=7UygHxU9fU8"
+	},
+	{
+		"title": "Exploring the Business Use Cases for Amazon Rekognition - 2017 AWS Online Tech Talk",
+		"url": "https://www.youtube.com/watch?v=HVgkHGfrJMQ"
+	},
+	{
+		"title": "Exploring the Business Use Cases for Amazon Polly - 2017 AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=T0RMDveyY_g"
+	},
+	{
+		"title": "Automated Compliance and Governance: AWS Config and AWS CloudTrail - 2017 AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=9g0u_05WBig"
+	},
+	{
+		"title": "Amazon Redshift Spectrum: Quickly Query Exabytes of Data in S3 - 2017 AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=PzK8ha_lRfY"
+	},
+	{
+		"title": "Backing up Amazon EC2 with Amazon EBS Snapshots - 2017 AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=TKEUrhhEy34"
+	},
+	{
+		"title": "Exploring the Business Use Cases for Amazon Lex - 2017 AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=qe9nRU6ZHAI"
+	},
+	{
+		"title": "Securing Your AWS Infrastructure with Edge Services - 2017 AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=uCRTsaJ62s4"
+	},
+	{
+		"title": "AWS Lambda Applications with AWS Serverless Application Model - 2017 AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=1k3XqBA2hYM"
+	},
+	{
+		"title": "Best Practices in Planning a Large-Scale Migration to AWS - 2017 AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=NcgBAUBtFA8"
+	},
+	{
+		"title": "Convert and Migrate Your NoSQL Database or Data Warehouse to AWS - 2017 AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=4HVZivQ5EAY"
+	},
+	{
+		"title": "Deep Dive on Amazon EC2 Elastic GPUs - 2017 AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=HbJ2xxgrcCE"
+	},
+	{
+		"title": "Migrating Big Data Workloads to Amazon EMR - 2017 AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=c5W4g4zV03c"
+	},
+	{
+		"title": "Deep Dive on Amazon Elastic File System - 2017 AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=SXcKsFELbwE"
+	},
+	{
+		"title": "Hands On Lab: Introduction to Microsoft SQL Server in AWS - 2017 AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=SubDBU6uyBg"
+	},
+	{
+		"title": "Amazon DynamoDB Accelerator (DAX): DynamoDB Just Got Faster  - 2017 AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=wBCDe5964-0"
+	},
+	{
+		"title": "Advanced Techniques for Federation of the AWS Management Console and Command Line Interface (CLI)",
+		"url": "https://www.youtube.com/watch?v=t6WWda_AY04"
+	},
+	{
+		"title": "Building a CICD Pipeline for Container Deployment to Amazon ECS - 2017 AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=9lJwlOh0B2s"
+	},
+	{
+		"title": "Test Your Android App with Espresso and AWS Device Farm - 2017 AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=O11nhUm8MKo"
+	},
+	{
+		"title": "Moving Data into the Cloud with AWS Transfer Services  - 2017 AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=qoY6ND9l2_g"
+	},
+	{
+		"title": "Hands On Lab: Windows Workloads on AWS - 2017 AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=3wWcaiBQEwc"
+	},
+	{
+		"title": "Deep Dive: Continuous Delivery for AI Applications with ECS - 2017 AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=C9NvAkQubAk"
+	},
+	{
+		"title": "Streaming ETL for Data Lakes using Amazon Kinesis Firehose - 2017 AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=0AGNcZfYkzw"
+	},
+	{
+		"title": "Building Serverless Web Applications  - 2017 AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=ijwpC6_0cCg"
+	},
+	{
+		"title": "What's New with Amazon Rekognition - 2017 AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=0v24-3BzTDA"
+	},
+	{
+		"title": "Scaling Up Tenfold with Amazon EC2 Spot Instances - 2017 AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=MwGfO8ndqeA"
+	},
+	{
+		"title": "Serverless Big Data Analytics - Amazon Athena & Amazon Quicksight - 2017 AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=m1HTL_SJHrE"
+	},
+	{
+		"title": "Building Analytics Pipelines for Games on AWS - 2017 AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=CVEVkmNuiBI"
+	},
+	{
+		"title": "OpsWorks for Chef Automate - Automation Made Easy! - 2017 AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=2CZPK3P-wdg"
+	},
+	{
+		"title": "Deep Dive on Amazon EC2 F1 Instance - 2017 AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=R_Wxc8y7lb0"
+	},
+	{
+		"title": "Integrate Your Amazon Lex Chatbot with Any Messaging Service - 2017 AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=EVAquVS80wk"
+	},
+	{
+		"title": "Build and Deploy Chatbots Fast with Amazon Lex - 2017 AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=AW2oKADZL1Q"
+	},
+	{
+		"title": "Deep Dive on Amazon Cloud Directory - April 2017 AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=UANm3DC_IxE"
+	},
+	{
+		"title": "Getting the most bang for your buck with EC2 Spot - April 2017 AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=wsiIbcAfdxc"
+	},
+	{
+		"title": "Introduction to Microsoft SQL Server in AWS - April 2017 AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=hm01zCUPohM"
+	},
+	{
+		"title": "Applying AWS Organizations to Complex Account Structures - April 2017 AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=pfetMIlo_2s"
+	},
+	{
+		"title": "Containerized Microservices on AWS - April 2017 AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=eY9zdUuwxe0"
+	},
+	{
+		"title": "Accelerating Mobile Application Development - AWS Mobile Hub - April 2017 AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=UQbeRMUh3qQ"
+	},
+	{
+		"title": "AWS Services Overview and Quarterly Update - April 2017 AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=0iQBAss5u38"
+	},
+	{
+		"title": "Scaling to millions of users with Amazon CloudFront - April 2017 AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=_D5MQJWHUbU"
+	},
+	{
+		"title": "Hands On Lab: Windows Workloads on AWS - April 2017 AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=aTZ2HdfXbkk"
+	},
+	{
+		"title": "Manage Inventory, Patching, and System Images for Hybrid Cloud  - April 2017 AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=VhxZ2-SX-v8"
+	},
+	{
+		"title": "Essential Capabilities of an IoT Cloud Platform - 2017 AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=g5r10Ewi16g"
+	},
+	{
+		"title": "Modernize Meetings with Amazon Chime - April 2017 AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=PiV9vrKHgWg"
+	},
+	{
+		"title": "Migrate from Oracle to Amazon Aurora using AWS Schema - April 2017 AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=2DCQYbynEO4"
+	},
+	{
+		"title": "Licensing Windows Workloads on AWS - April 2017 AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=aNfuDzvgtBA"
+	},
+	{
+		"title": "Choose the Right Cloud Storage - Media & Entertainment Workloads - 2017 AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=JUO6vsmKJiY"
+	},
+	{
+		"title": "Deep Dive on the AWS Storage Gateway - 2017 AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=Jqzw5Wxw9Lo"
+	},
+	{
+		"title": "Managed Database Services on Amazon Web Services - April 2016 Online Tech Talks & Workshops",
+		"url": "https://www.youtube.com/watch?v=vPetoz_Qbaw"
+	},
+	{
+		"title": "AI & Deep Learning At Amazon - April 2017 AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=WuUAXmUZHEA"
+	},
+	{
+		"title": "Use Amazon Polly to Create Apps that Talk - April 2017 AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=m958YAilKVY"
+	},
+	{
+		"title": "Deep Dive on Amazon EBS Elastic Volumes - 2017 AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=Vi_1Or7QuOg"
+	},
+	{
+		"title": "How to get the most out of Polly, Leveraging Lexicons and SSML - March 2017 AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=B2XSU22ilmQ"
+	},
+	{
+		"title": "Active Archiving with Amazon S3 and Tiering to Amazon Glacier - 2017 AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=W_DdWDUzjSk"
+	},
+	{
+		"title": "Building a Development Workflow for Serverless Applications - March 2017 AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=e3lreqpWN0A"
+	},
+	{
+		"title": "Deep Dive on Amazon Cognito - March 2017 AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=wlSba1dXAhc"
+	},
+	{
+		"title": "Deep Dive on Amazon EBS Elastic Volumes - 2017 AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=9vhR41YTp7E"
+	},
+	{
+		"title": "Deep Dive on Amazon S3 - 2017 AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=LdzzjCuU2oU"
+	},
+	{
+		"title": "Log Analytics with Amazon Elasticsearch Service & Kinesis - March 2017 AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=PFUcF9Ye0fc"
+	},
+	{
+		"title": "Best Practices for Managing Security Operations in AWS - March 2017 AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=KuOy63yzc8c"
+	},
+	{
+		"title": "Hands-on Labs: Getting Started with AWS - March 2017 Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=brPWFszLD8M"
+	},
+	{
+		"title": "Getting the Most Out of the New EC2 Reserved Instances - March 2017 AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=-bL5LTmgVmY"
+	},
+	{
+		"title": "Automating Management of Amazon EC2 Instances - March 2017 AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=bSRTAMPqS3E"
+	},
+	{
+		"title": "Developing Applications with the IoT Button - March 2017 AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=5AI4bnj41ng"
+	},
+	{
+		"title": "An Overview of Designing Microservices - March 2017 AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=Ijs55IA8DIk"
+	},
+	{
+		"title": "A Deeper Dive into Apache MXNet - March 2017 AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=iLqEhCqCQ70"
+	},
+	{
+		"title": "ElastiCache Deep Dive: Best Practices and Usage Patterns - March 2017 AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=zmDUDSYnAv4"
+	},
+	{
+		"title": "Deploying a Data Lake on AWS - March 2017 AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=DpjFUAHpCRA"
+	},
+	{
+		"title": "One Click Enterprise IoT Services - March 2017 AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=pUJmek9Bfls"
+	},
+	{
+		"title": "Optimizing the Data Tier for Serverless Web Applications - March 2017 AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=BG_xi6ACm5I"
+	},
+	{
+		"title": "Introducing Amazon Lex: Service for Building Voice/Text Chatbots - March 2017 AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=tAKbXEsZ4Iw"
+	},
+	{
+		"title": "Deep Dive on Flink & Spark on Amazon EMR - February 2017 AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=MzTZp47Jy7E"
+	},
+	{
+		"title": "Amazon Redshift Deep Dive - February 2017 AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=iuQgZDs-W7A"
+	},
+	{
+		"title": "Optimize MySQL Workloads with Amazon Elastic Block Store - 2017 AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=8ad2SPT6I3k"
+	},
+	{
+		"title": "Deep Dive on Elastic File System - 2017 AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=NhI0g8vI5M0"
+	},
+	{
+		"title": "How to Prepare for AWS Certification and Advance your Career - February 2017 AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=6sx6xuj9gIc"
+	},
+	{
+		"title": "Migrate SQL Server or Oracle into Amazon Aurora using DMS - February 2017 AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=jlLnTKrdGZI"
+	},
+	{
+		"title": "Best Practices with IoT Security - February 2017 AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=8EXqmzD37QQ"
+	},
+	{
+		"title": "Getting Started with AWS IoT - February 2017 AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=-HhBZm2Er2g"
+	},
+	{
+		"title": "Consolidate MySQL Shards Into Amazon Aurora Data using AWS DMS - February 2017 AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=DITuccwlcp4"
+	},
+	{
+		"title": "Best Practices: NoSQL Workloads on Amazon EC2 and EBS - 2017 AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=ZgQUJXuN7W8"
+	},
+	{
+		"title": "An Overview of AI on the AWS Platform - February 2017 AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=7yoExk5en5o"
+	},
+	{
+		"title": "DNS DDoS mitigation using Amazon Route 53 and AWS Shield - February 2017 AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=zAW7r7XQYhs"
+	},
+	{
+		"title": "Deep Dive on AWS Mobile Hub for Enterprise Mobile Applications - February 2017 AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=8lBUM8R51ss"
+	},
+	{
+		"title": "Test your Android App with Espresso and AWS Device Farm - February 2017 AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=OIKwuy4OFLI"
+	},
+	{
+		"title": "Amazon Elasticsearch Service with Elasticsearch 5 - February 2017 AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=DpC3e6pr1V8"
+	},
+	{
+		"title": "Announcing Amazon Pinpoint - January 2017 AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=JuhNI6i5BDM"
+	},
+	{
+		"title": "Announcing AWS CodeBuild - January 2017 AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=E6EBg46vvu0"
+	},
+	{
+		"title": "Announcing Amazon AppStream 2.0 - January 2017 AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=uN7hKJJKbTQ"
+	},
+	{
+		"title": "Announcing AWS Personal Health Dashboard - January 2017 AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=rCq8OH_8Rko"
+	},
+	{
+		"title": "Announcing AWS Greengrass  - January 2017 AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=xui5PKl5jbQ"
+	},
+	{
+		"title": "Deep Dive on Amazon EC2 Instances  - January 2017 Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=29QZPttiKJA"
+	},
+	{
+		"title": "Deep Dive on AWS Lambda - January 2017 AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=dB4zJk_fqrU"
+	},
+	{
+		"title": "Announcing AWS OpsWorks for Chef Automate - January 2017 AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=MSeiFsvLGoc"
+	},
+	{
+		"title": "Announcing Amazon Lightsail - January 2017 AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=lgqRkvtXYoE"
+	},
+	{
+		"title": "Announcing Amazon Lex - January 2017 AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=-8bSCyPAE44"
+	},
+	{
+		"title": "Announcing Amazon Aurora with PostgreSQL Compatibility - January 2017 AWS Onlin",
+		"url": "https://www.youtube.com/watch?v=4jslgOGsBb4"
+	},
+	{
+		"title": "Deep Dive on Amazon QuickSight - January 2017 AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=gy1AcdJMsMk"
+	},
+	{
+		"title": "Announcing AWS X-Ray - January 2017 AWS Online Tech Talks",
+		"url": "https://www.youtube.com/watch?v=pIiCYDlUA_4"
+	},
+	{
+		"title": "Introduction to Microsoft SQL Server in AWS",
+		"url": "https://www.youtube.com/watch?v=K8gSaS_E4JM"
+	},
+	{
+		"title": "Announcing Amazon EC2 Systems Manager - Hybrid Cloud Management at Scale",
+		"url": "https://www.youtube.com/watch?v=Ek5Bx8ovvX0"
+	},
+	{
+		"title": "Announcing AWS Step Functions - December 2016 Monthly Webinar Series",
+		"url": "https://www.youtube.com/watch?v=vi0q9bODbTE"
+	},
+	{
+		"title": "Announcing AWS Snowball Edge and AWS Snowmobile - December 2016 Monthly Webinar Series",
+		"url": "https://www.youtube.com/watch?v=qSoZ56x-Ta0"
+	},
+	{
+		"title": "Announcing AWS Shield - Protect Web Applications from DDoS Attacks",
+		"url": "https://www.youtube.com/watch?v=jEDVVxrAWTs"
+	},
+	{
+		"title": "Announcing Lambda at the Edge",
+		"url": "https://www.youtube.com/watch?v=BPMyZs8ES_4"
+	},
+	{
+		"title": "Announcing Amazon EC2 F1 Instances with Custom FPGAs",
+		"url": "https://www.youtube.com/watch?v=5sDVprory3c"
+	},
+	{
+		"title": "Announcing Blox - Open Source Projects for Customizing Scheduling on Amazon ECS",
+		"url": "https://www.youtube.com/watch?v=tLVs_q1L9FQ"
+	},
+	{
+		"title": "Announcing Amazon Athena - Instantly Analyze Your Data in S3 Using SQL",
+		"url": "https://www.youtube.com/watch?v=ihVI-MZ6xR0"
+	},
+	{
+		"title": "Deep Dive on Amazon Aurora - Covering New Feature Announcements",
+		"url": "https://www.youtube.com/watch?v=VrWH518sObk"
+	},
+	{
+		"title": "Announcing Amazon Polly - Turn Text into Lifelike Speech",
+		"url": "https://www.youtube.com/watch?v=0ntBvMokRFY"
+	},
+	{
+		"title": "Announcing Amazon Rekognition - Deep Learning-Based Image Analysis",
+		"url": "https://www.youtube.com/watch?v=b6gN9jCmq3w"
+	},
+	{
+		"title": "Launch a Thousand Core HPC Cluster in Minutes with AWS CfnCluster",
+		"url": "https://www.youtube.com/watch?v=FEIkzg72D5s"
+	},
+	{
+		"title": "Announcing AWS Batch - Run Batch Jobs At Scale - December 2016 Monthly Webinar Series",
+		"url": "https://www.youtube.com/watch?v=pZ9acIfvIx4"
+	},
+	{
+		"title": "Deep Dive on Amazon Glacier Covering New Retrieval Features - December 2016 Monthly Webinar Series",
+		"url": "https://www.youtube.com/watch?v=l8ug62pVbtw"
+	},
+	{
+		"title": "Deep Dive on S3 Storage Management Covering New Feature Announcements - December 2016",
+		"url": "https://www.youtube.com/watch?v=xZ_Tch87mXw"
+	},
+	{
+		"title": "AWS re:Invent 2016: Know Before You Go",
+		"url": "https://www.youtube.com/watch?v=t7APkUswOuI"
+	},
+	{
+		"title": "Global Partner Summit at re:Invent – Know Before You Go",
+		"url": "https://www.youtube.com/watch?v=aM-NBRULyWg"
+	},
+	{
+		"title": "Introduction to Three AWS Security Services - November 2016 Webinar Series",
+		"url": "https://www.youtube.com/watch?v=55Sd7jPJPlI"
+	},
+	{
+		"title": "Best Practices for Protecting Cloud Workloads - November 2016 Webinar Series",
+		"url": "https://www.youtube.com/watch?v=Sqpqhtm_pNk"
+	},
+	{
+		"title": "Setup Preconfigured Protections on AWS WAF - November 2016 Webinar Series",
+		"url": "https://www.youtube.com/watch?v=rAaMuAUyuFI"
+	},
+	{
+		"title": "Configuration Management with AWS OpsWorks - November 2016 Webinar Series",
+		"url": "https://www.youtube.com/watch?v=VPOOWyWPT0Y"
+	},
+	{
+		"title": "Streamline Your Desktop Operations and Improve Security with Amazon WorkSpaces",
+		"url": "https://www.youtube.com/watch?v=W-uW_VmKiJY"
+	},
+	{
+		"title": "RDS for Oracle and SQL Server - November 2016 Webinar Series",
+		"url": "https://www.youtube.com/watch?v=jnBSWumfyoA"
+	},
+	{
+		"title": "Getting Started with AWS - November 2016 Webinar Series",
+		"url": "https://www.youtube.com/watch?v=cJ2-vVuWhDY"
+	},
+	{
+		"title": "Migrate your Existing Express Applications to AWS Lambda",
+		"url": "https://www.youtube.com/watch?v=Cuh_gtFX5gI"
+	},
+	{
+		"title": "Best Practices for IoT Security in the Cloud",
+		"url": "https://www.youtube.com/watch?v=V7wLJZszDYk"
+	},
+	{
+		"title": "The Lifecycle of an AWS IoT Thing from Manufacture to Retirement",
+		"url": "https://www.youtube.com/watch?v=D-5X_Ti1T4U"
+	},
+	{
+		"title": "Real-time Data Processing using AWS Lambda",
+		"url": "https://www.youtube.com/watch?v=V10n9Uahk_M"
+	},
+	{
+		"title": "Build Scalable and Secure Mobile Applications with AWS",
+		"url": "https://www.youtube.com/watch?v=4DJWf_aeK38"
+	},
+	{
+		"title": "Storage with Amazon S3 and Amazon Glacier",
+		"url": "https://www.youtube.com/watch?v=3iCSrkkXwaI"
+	},
+	{
+		"title": "Add User Sign in and Management to your Apps with Amazon Cognito",
+		"url": "https://www.youtube.com/watch?v=xLvZThZkWjI"
+	},
+	{
+		"title": "AWS ECS Deep Dive",
+		"url": "https://www.youtube.com/watch?v=8f4n1Rz6KAM"
+	},
+	{
+		"title": "Fast Data at Internet Scale with Amazon ElastiCache for Redis",
+		"url": "https://www.youtube.com/watch?v=fyMXt2wI47E"
+	},
+	{
+		"title": "Data Warehousing with Amazon Redshift",
+		"url": "https://www.youtube.com/watch?v=TFLoCLXulU0"
+	},
+	{
+		"title": "Account Separation & Mandatory Access Control",
+		"url": "https://www.youtube.com/watch?v=CNSaJs7pWjA"
+	},
+	{
+		"title": "Deep Dive on AWS reInvent 2016 Breakout Sessions - PM Session",
+		"url": "https://www.youtube.com/watch?v=YCU5pT40G5Q"
+	},
+	{
+		"title": "Deep Dive on AWS reInvent 2016 Breakout Sessions - AM Session",
+		"url": "https://www.youtube.com/watch?v=unwgpldrl7g"
+	},
+	{
+		"title": "Reserved Seating at AWS re:Invent 2016 -  PM Session",
+		"url": "https://www.youtube.com/watch?v=gCF-MKTMZdU"
+	},
+	{
+		"title": "Reserved Seating at AWS re:Invent 2016 - 10/12/2016 AM Session",
+		"url": "https://www.youtube.com/watch?v=_ZQW7HJV0VE"
+	},
+	{
+		"title": "Getting Started with AWS IoT - September 2016 Webinar Series",
+		"url": "https://www.youtube.com/watch?v=BfvieRwulvc"
+	},
+	{
+		"title": "Overview and Best Practices for Amazon Elastic Block Store - September 2016 Webinar Series",
+		"url": "https://www.youtube.com/watch?v=rywzaki7aSg"
+	},
+	{
+		"title": "Getting Started with Managed Database Services on AWS - September 2016 Webinar Series",
+		"url": "https://www.youtube.com/watch?v=nvh3XypRSq0"
+	},
+	{
+		"title": "Coding Apps in the Cloud to reduce costs up to 90% - September 2016 Webinar Series",
+		"url": "https://www.youtube.com/watch?v=UqjiZcPINcg"
+	},
+	{
+		"title": "Building Real-Time Data Analytics Applications on AWS - September 2016 Webinar Series",
+		"url": "https://www.youtube.com/watch?v=pHZxA3eFr-E"
+	},
+	{
+		"title": "AWS Services Overview - September 2016 Webinar Series",
+		"url": "https://www.youtube.com/watch?v=4b3PNCSENvM"
+	},
+	{
+		"title": "AWS Infrastructure as Code - September 2016 Webinar Series",
+		"url": "https://www.youtube.com/watch?v=UsBjrNg6Pgs"
+	},
+	{
+		"title": "Automating Compliance Defense in the Cloud - September 2016 Webinar Series",
+		"url": "https://www.youtube.com/watch?v=WypftJGyx1E"
+	},
+	{
+		"title": "Amazon Aurora New Features - September 2016 Webinar Series",
+		"url": "https://www.youtube.com/watch?v=ySVj2Qfgydg"
+	},
+	{
+		"title": "Addressing Amazon Inspector Assessment Findings - September 2016 Webinar Series",
+		"url": "https://www.youtube.com/watch?v=s8krx9zbC1k"
+	},
+	{
+		"title": "Test Android and iOS apps on Real Devices with AWS Device Farm - September Webinar Series",
+		"url": "https://www.youtube.com/watch?v=-E-4B3vmmb0"
+	},
+	{
+		"title": "Real-Time Data Processing Using AWS Lambda",
+		"url": "https://www.youtube.com/watch?v=0py59oDiqgE"
+	},
+	{
+		"title": "Getting Started with Cognito User Pools - September Webinar Series",
+		"url": "https://www.youtube.com/watch?v=zmEaYbRwaWU"
+	},
+	{
+		"title": "Log Analytics with Amazon Elasticsearch Service - September Webinar Series",
+		"url": "https://www.youtube.com/watch?v=JlBNHLXb3rg"
+	},
+	{
+		"title": "Migrate Your Data Warehouse to Amazon Redshift - September Webinar Series",
+		"url": "https://www.youtube.com/watch?v=4R83qPr2A14"
+	},
+	{
+		"title": "ECS: Monitoring Containers at Scale",
+		"url": "https://www.youtube.com/watch?v=xJhoEO1Bqqg"
+	},
+	{
+		"title": "Deep Dive: Amazon Redshift for Big Data Analytics - September Webinar Series",
+		"url": "https://www.youtube.com/watch?v=ctLeU15pc00"
+	},
+	{
+		"title": "AWS Lambda: Event-driven Code for Devices and the Cloud",
+		"url": "https://www.youtube.com/watch?v=gEDp8wlmK3c"
+	},
+	{
+		"title": "Running Microservices and Docker on AWS Elastic Beanstalk - August 2016 Monthly Webinar Series",
+		"url": "https://www.youtube.com/watch?v=vaZmVSlWwyA"
+	},
+	{
+		"title": "Getting Started with SQL Server 2016 on Amazon EC2 - August 2016 Monthly Webinar Series",
+		"url": "https://www.youtube.com/watch?v=9VAzYEKMmvU"
+	},
+	{
+		"title": "Best Practices for Building a Data Lake with Amazon S3 - August 2016 Monthly Webinar Series",
+		"url": "https://www.youtube.com/watch?v=ra_jl81crS0"
+	},
+	{
+		"title": "Getting Started with Serverless Architectures - August 2016 Monthly Webinar Series",
+		"url": "https://www.youtube.com/watch?v=bj5Zc-_9pZg"
+	},
+	{
+		"title": "Amazon Aurora for the Enterprise - August 2016 Monthly Webinar Series",
+		"url": "https://www.youtube.com/watch?v=dLSPJ9J6FN8"
+	},
+	{
+		"title": "Best Practices for Running SAP HANA Workloads with EC2 - August 2016 Monthly Webinar Series",
+		"url": "https://www.youtube.com/watch?v=ZPzKFrurlIA"
+	},
+	{
+		"title": "Best Practices for Data Center Migration Planning - August 2016 Monthly Webinar Series",
+		"url": "https://www.youtube.com/watch?v=mXs004KN364"
+	},
+	{
+		"title": "Introducing Amazon EMR Release 5.0 - August 2016 Monthly Webinar Series",
+		"url": "https://www.youtube.com/watch?v=n1kV7HfNQ50"
+	},
+	{
+		"title": "Managing Data with Amazon ElastiCache for Redis - August 2016 Monthly Webinar Series",
+		"url": "https://www.youtube.com/watch?v=tkZbTJFuJQE"
+	},
+	{
+		"title": "Best Practices for Managing Security Operations in AWS - AWS July 2016 Webinar Series",
+		"url": "https://www.youtube.com/watch?v=8YWWkjZxRGY"
+	},
+	{
+		"title": "SQL to NoSQL   Best Practices with Amazon DynamoDB - AWS July 2016 Webinar Series",
+		"url": "https://www.youtube.com/watch?v=RLxWobyd2Tc"
+	},
+	{
+		"title": "Mobile App Testing with AWS Device Farm - AWS July 2016 Webinar Series",
+		"url": "https://www.youtube.com/watch?v=73eZuq8vdpQ"
+	},
+	{
+		"title": "Intro to Elastic File System - AWS July 2016 Webinar Series",
+		"url": "https://www.youtube.com/watch?v=AIF3Nvidi0I"
+	},
+	{
+		"title": "Getting Started with IoT - AWS July 2016 Webinar Series",
+		"url": "https://www.youtube.com/watch?v=aKGqOs6xlYM"
+	},
+	{
+		"title": "Amazon EC2 Masterclass - AWS July 2016 Webinar Series",
+		"url": "https://www.youtube.com/watch?v=fA3Ptf7hzCY"
+	},
+	{
+		"title": "Getting Started with Amazon Redshift - AWS July 2016 Webinar Series",
+		"url": "https://www.youtube.com/watch?v=s2EOL5HArLI"
+	},
+	{
+		"title": "Running Fast, Interactive Queries on Petabyte Datasets using Presto - AWS July 2016 Webinar Series",
+		"url": "https://www.youtube.com/watch?v=EO6KgpAOea4"
+	},
+	{
+		"title": "Getting Started with AWS - AWS July 2016 Webinar Series",
+		"url": "https://www.youtube.com/watch?v=6piG07zSRC0"
+	},
+	{
+		"title": "Choosing the Right EC2 Instance and Applicable Use Cases - AWS June 2016 Webinar Series",
+		"url": "https://www.youtube.com/watch?v=y-xicDOIiSQ"
+	},
+	{
+		"title": "Getting Started with Your User Pools in Amazon Cognito - AWS June 2016 Webinar Series",
+		"url": "https://www.youtube.com/watch?v=vr1njQyqlbk"
+	},
+	{
+		"title": "Intro to Amazon WorkSpaces - AWS June 2016 Webinar Series",
+		"url": "https://www.youtube.com/watch?v=gvKElrA2mMM"
+	},
+	{
+		"title": "AWS June 2016 Webinar Series - Improving Infrastructure Governance on AWS",
+		"url": "https://www.youtube.com/watch?v=aqQ-WB6MXzc"
+	},
+	{
+		"title": "AWS June 2016 Webinar Series - Introduction to Media Processing, Delivery and Storage in the Cloud",
+		"url": "https://www.youtube.com/watch?v=fcLvRaMGFj4"
+	},
+	{
+		"title": "AWS June 2016 Webinar Series - Amazon Aurora Deep Dive - Optimizing Database Performance",
+		"url": "https://www.youtube.com/watch?v=wfUTdeH7-Ko"
+	},
+	{
+		"title": "AWS June 2016 Webinar Series - Best Practices for Architecting Cloud Backup and Recovery Solutions",
+		"url": "https://www.youtube.com/watch?v=UEk0RkJFtCo"
+	},
+	{
+		"title": "AWS June 2016 Webinar Series - Amazon Redshift for Big Data Analytics",
+		"url": "https://www.youtube.com/watch?v=atXNUnttjh0"
+	},
+	{
+		"title": "AWS June 2016 Webinar Series - AWS Quarterly Update",
+		"url": "https://www.youtube.com/watch?v=FCatlIlQ2ho"
+	},
+	{
+		"title": "AWS June 2016 Webinar Series - Getting Started with Amazon Inspector",
+		"url": "https://www.youtube.com/watch?v=BksbSqA3j9U"
+	},
+	{
+		"title": "AWS Security Roadshow - IAM Recommended Practices",
+		"url": "https://www.youtube.com/watch?v=R-PyVnhxx-U"
+	},
+	{
+		"title": "AWS Security Roadshow - Logging, Analysis and Alerting",
+		"url": "https://www.youtube.com/watch?v=42-1xpT-s6U"
+	},
+	{
+		"title": "AWS Security Roadshow - Encryption Options on AWS",
+		"url": "https://www.youtube.com/watch?v=9bn7p2tdym0"
+	},
+	{
+		"title": "AWS Security Roadshow - The AWS Shared Security Responsibility Model in Practice",
+		"url": "https://www.youtube.com/watch?v=RwUSPklR24M"
+	},
+	{
+		"title": "AWS May 2016 Webinar Series - Strategies to Optimize Costs Using AWS",
+		"url": "https://www.youtube.com/watch?v=slJvH85fl00"
+	},
+	{
+		"title": "AWS May 2016 Webinar Series - Integrating Amazon ElastiCache into Your Database Stack",
+		"url": "https://www.youtube.com/watch?v=N1P9pjbFzYQ"
+	},
+	{
+		"title": "AWS May 2016 Webinar Series - Evolving Your Big Data Use Cases from Batch to Real-Time",
+		"url": "https://www.youtube.com/watch?v=vGgGneG3dxg"
+	},
+	{
+		"title": "AWS May 2016 Webinar Series - Intro to AWS Application Discovery Service",
+		"url": "https://www.youtube.com/watch?v=ciXV91CXoc0"
+	},
+	{
+		"title": "AWS May 2016 Webinar Series - Getting Started with AWS IoT and the Dragon IoT Starter Kit",
+		"url": "https://www.youtube.com/watch?v=IkocuY9ZdDM"
+	},
+	{
+		"title": "AWS May 2016 Webinar Series - Cloud Data Migration Strategies",
+		"url": "https://www.youtube.com/watch?v=rbhjiQ-8cyU"
+	},
+	{
+		"title": "AWS May 2016 Webinar Series - Deep Dive on Serverless Web Applications",
+		"url": "https://www.youtube.com/watch?v=fXZzVzptkeo"
+	},
+	{
+		"title": "AWS May 2016 Webinar Series - Best Practices for Running MongoDB on AWS",
+		"url": "https://www.youtube.com/watch?v=DwdSRt9gfrU"
+	},
+	{
+		"title": "AWS May 2016 Webinar Series - AWS Services Overview",
+		"url": "https://www.youtube.com/watch?v=lv4hh1zQaLw"
+	},
+	{
+		"title": "AWS April 2016 Webinar Series - Migrating your Databases to Aurora Updated",
+		"url": "https://www.youtube.com/watch?v=wki7MgTHaZ0"
+	},
+	{
+		"title": "AWS April 2016 Webinar Series - Running Microservices on Amazon ECS",
+		"url": "https://www.youtube.com/watch?v=nWNpHweMgxE"
+	},
+	{
+		"title": "AWS April 2016 Webinar Series - Migrating your Databases to Aurora",
+		"url": "https://www.youtube.com/watch?v=1_zxlg_-wkI"
+	},
+	{
+		"title": "AWS April 2016 Webinar Series - Continuous Delivery with AWS Lambda",
+		"url": "https://www.youtube.com/watch?v=fKUdxhPMtVk"
+	},
+	{
+		"title": "AWS April 2016 Webinar Series - S3 Best Practices - A Decade of Field Experience",
+		"url": "https://www.youtube.com/watch?v=x3wxVCvqpa8"
+	},
+	{
+		"title": "AWS April 2016 Webinar Series - Getting Started With Continuous Delivery on AWS",
+		"url": "https://www.youtube.com/watch?v=m33gCMub0nw"
+	},
+	{
+		"title": "AWS April 2016 Webinar Series - Getting Started with Real-Time Data Analytics on AWS",
+		"url": "https://www.youtube.com/watch?v=wcpOxPXxvpo"
+	},
+	{
+		"title": "AWS April 2016 Webinar Series - RDS for Oracle - Quick Provisioning. Easy Management. Reduced Cost",
+		"url": "https://www.youtube.com/watch?v=wymzGug8A7U"
+	},
+	{
+		"title": "AWS April 2016 Webinar Series - Best Practices for Apache Spark on AWS",
+		"url": "https://www.youtube.com/watch?v=UN6eNdHdWAc"
+	},
+	{
+		"title": "AWS April 2016 Webinar Series - Getting Started with AWS",
+		"url": "https://www.youtube.com/watch?v=bFc5Fg9YSQg"
+	},
+	{
+		"title": "AWS March 2016 Webinar Series - Managed Database Services on Amazon Web Services",
+		"url": "https://www.youtube.com/watch?v=W5qfS_Fli2Y"
+	},
+	{
+		"title": "AWS March 2016 Webinar Series   Getting Started with Serverless Architectures",
+		"url": "https://www.youtube.com/watch?v=O2GQRC0sVA8"
+	},
+	{
+		"title": "AWS March 2016 Webinar Series   Building Your Data Lake on AWS",
+		"url": "https://www.youtube.com/watch?v=HR80j2VyVtA"
+	},
+	{
+		"title": "AWS March 2016 Webinar Series - Building Big Data Solutions with Amazon EMR and Amazon Redshift",
+		"url": "https://www.youtube.com/watch?v=1AHGcLnvinI"
+	},
+	{
+		"title": "AWS March 2016 Webinar Series - Best Practices for Architecting Cloud Backup and Recovery Solutions",
+		"url": "https://www.youtube.com/watch?v=2G5HoFdd_D0"
+	},
+	{
+		"title": "AWS March 2016 Webinar Series - Best Practices for Managing Security Operations in AWS",
+		"url": "https://www.youtube.com/watch?v=rvcHnJPBQMA"
+	},
+	{
+		"title": "AWS March 2016 Webinar Series - AWS IoT Real Time Stream Processing with AWS Lambda",
+		"url": "https://www.youtube.com/watch?v=triF6VaU13Q"
+	},
+	{
+		"title": "AWS March 2016 Webinar Series - Getting Started with AWS Mobile Hub",
+		"url": "https://www.youtube.com/watch?v=i8GZod5Dkt8"
+	},
+	{
+		"title": "AWS March 2016 Webinar Series - Amazon EC2 Masterclass",
+		"url": "https://www.youtube.com/watch?v=ArEEsd9tKhA"
+	},
+	{
+		"title": "Improve Your HIT Security Posture by Deploying in the Cloud",
+		"url": "https://www.youtube.com/watch?v=vszyH5Rphss"
+	},
+	{
+		"title": "Using AWS WAF and Lambda for Automatic Protection",
+		"url": "https://www.youtube.com/watch?v=xskM8XA2bqE"
+	},
+	{
+		"title": "February 2016 Webinar Series   Migrate Your Apps from Parse to AWS",
+		"url": "https://www.youtube.com/watch?v=0Q0RBYoFIWU"
+	},
+	{
+		"title": "February 2016 Webinar Series - EC2 Container Service Deep Dive",
+		"url": "https://www.youtube.com/watch?v=OMZP9bosY3o"
+	},
+	{
+		"title": "February 2016 Webinar Series - Best Practices for IoT Security in the Cloud",
+		"url": "https://www.youtube.com/watch?v=bac35yWJF08"
+	},
+	{
+		"title": "February 2016 Webinar Series - Architectural Patterns for Big Data on AWS",
+		"url": "https://www.youtube.com/watch?v=sOeciPNtsoc"
+	},
+	{
+		"title": "February 2016 Webinar Series - Introducing VPC Support for AWS Lambda",
+		"url": "https://www.youtube.com/watch?v=Qn8uGcfBb_I"
+	},
+	{
+		"title": "February 2016 Webinar Series - Introduction to DynamoDB",
+		"url": "https://www.youtube.com/watch?v=jL-WJlBtpIw"
+	},
+	{
+		"title": "February 2016 Webinar Series - Automate Your App Tests with Appium and AWS Device Farm",
+		"url": "https://www.youtube.com/watch?v=E1D8PM9kdsI"
+	},
+	{
+		"title": "February 2016 Webinar Series - Use AWS Cloud Storage as the Foundation for Hybrid Strategy",
+		"url": "https://www.youtube.com/watch?v=tIDbFTIPolQ"
+	},
+	{
+		"title": "February 2016 Webinar Series - 451 Research and AWS",
+		"url": "https://www.youtube.com/watch?v=XGlb72QRrDU"
+	},
+	{
+		"title": "February 2016 Webinar Series - Introduction to AWS Database Migration Service",
+		"url": "https://www.youtube.com/watch?v=KJ5_nnBZtJE"
+	},
+	{
+		"title": "AWS January 2016 Webinar Series - Cloud Data Migration: 6 Strategies for Getting Data into AWS",
+		"url": "https://www.youtube.com/watch?v=shFn8a2K9K0"
+	},
+	{
+		"title": "AWS January 2016 Webinar Series - Managing your Infrastructure as Code",
+		"url": "https://www.youtube.com/watch?v=1QCXABOIcuc"
+	},
+	{
+		"title": "AWS January 2016 Webinar Series - Building Smart Applications with Amazon Machine Learning",
+		"url": "https://www.youtube.com/watch?v=GN2AmJltFGs"
+	},
+	{
+		"title": "AWS January 2016 Webinar Series - Introduction to Docker on AWS",
+		"url": "https://www.youtube.com/watch?v=hFlAFSLVww4"
+	},
+	{
+		"title": "AWS January 2016 Webinar Series - Amazon Aurora for Enterprise Database Applications",
+		"url": "https://www.youtube.com/watch?v=-2h2xwNA2oE"
+	},
+	{
+		"title": "AWS January 2016 Webinar Series - Best Practices for Building IoT Backends with AWS IoT & AWS Lambda",
+		"url": "https://www.youtube.com/watch?v=0Izh6ySpwb8"
+	},
+	{
+		"title": "AWS January 2016 Webinar Series - Getting Started with Big Data on AWS",
+		"url": "https://www.youtube.com/watch?v=B_f7jFVpI0c"
+	},
+	{
+		"title": "AWS January 2016 Webinar Series - Getting Started with AWS IoT",
+		"url": "https://www.youtube.com/watch?v=tTazcL61JG8"
+	},
+	{
+		"title": "AWS January 2016 Webinar Series - Introduction to Deploying Applications on AWS",
+		"url": "https://www.youtube.com/watch?v=ooEf-LN2HoI"
+	},
+	{
+		"title": "Hands-on-Lab: Get Started with AWS EC2 for Microsoft Windows Server",
+		"url": "https://www.youtube.com/watch?v=diWatLW6Tgg"
+	},
+	{
+		"title": "AWS APAC Webinar Week - Training & Certification Masterclass",
+		"url": "https://www.youtube.com/watch?v=LWP2kpOGGdg"
+	},
+	{
+		"title": "AWS APAC Webinar Week - Understanding AWS Storage Options",
+		"url": "https://www.youtube.com/watch?v=kvAEUlu9Yec"
+	},
+	{
+		"title": "AWS APAC Webinar Week - Top 5 ways to Secure Your Business on AWS",
+		"url": "https://www.youtube.com/watch?v=nEeDj2OqURE"
+	},
+	{
+		"title": "AWS APAC Webinar Week - Securing Your Business on AWS",
+		"url": "https://www.youtube.com/watch?v=aHTQehEQmI0"
+	},
+	{
+		"title": "AWS APAC Webinar Week - Running Microsoft SQL server on AWS",
+		"url": "https://www.youtube.com/watch?v=InRC91Jv4YE"
+	},
+	{
+		"title": "AWS APAC Webinar Week - Real Time Data Processing with Kinesis",
+		"url": "https://www.youtube.com/watch?v=XpYMkN8Hp6o"
+	},
+	{
+		"title": "AWS APAC Webinar Week - Maintaining Performance & Availability While Lowering Cost With AWS",
+		"url": "https://www.youtube.com/watch?v=mAAKncK-NBw"
+	},
+	{
+		"title": "AWS APAC Webinar Week - Launching Your First Big Data Project on AWS",
+		"url": "https://www.youtube.com/watch?v=Q5nHg1pSk3w"
+	},
+	{
+		"title": "AWS APAC Webinar Week - Introduction to Cloud Computing With Amazon Web Services",
+		"url": "https://www.youtube.com/watch?v=ViI85RJsZPE"
+	},
+	{
+		"title": "AWS APAC Webinar Week - Getting The Most From EC2",
+		"url": "https://www.youtube.com/watch?v=O4kVle5PIj4"
+	},
+	{
+		"title": "AWS APAC Webinar Week - Big Data on AWS. RedShift, EMR, & IOT",
+		"url": "https://www.youtube.com/watch?v=ZBZxQvw8NZE"
+	},
+	{
+		"title": "AWS APAC Webinar Week - AWS MySQL Relational Database Services Best Practices for Performance",
+		"url": "https://www.youtube.com/watch?v=64gezS-qVKo"
+	},
+	{
+		"title": "AWS APAC Webinar Week - 2015 An Amazing Year in AWS",
+		"url": "https://www.youtube.com/watch?v=sKeFfLjS36o"
+	},
+	{
+		"title": "AWS December 2015 Webinar Series - AWS Services Overview",
+		"url": "https://www.youtube.com/watch?v=hQDmlSmZgkg"
+	},
+	{
+		"title": "AWS December 2015 Webinar Series - Game Developers, Create Great Experiences",
+		"url": "https://www.youtube.com/watch?v=GEDpJLPWOiU"
+	},
+	{
+		"title": "AWS December 2015 Webinar Series - AWS Inspector",
+		"url": "https://www.youtube.com/watch?v=ddz0JmCTTsU"
+	},
+	{
+		"title": "AWS December 2015 Webinar Series - Build Mobile Backends with AWS Lambda",
+		"url": "https://www.youtube.com/watch?v=7RYApg4Wd8M"
+	},
+	{
+		"title": "AWS December 2015 Webinar Series - Continuous Delivery to Amazon EC2 Container Service",
+		"url": "https://www.youtube.com/watch?v=I6ApIARoMxE"
+	},
+	{
+		"title": "AWS December 2015 Webinar Series - Amazon Aurora: Introduction and Migration",
+		"url": "https://www.youtube.com/watch?v=14rCRoTk9UM"
+	},
+	{
+		"title": "AWS IoT Webinar for EMEA Analysts",
+		"url": "https://www.youtube.com/watch?v=0X54z4fzN9g"
+	},
+	{
+		"title": "AWS December 2015 Webinar Series - Strategies to Quantify TCO & Optimize Costs w/ AWS",
+		"url": "https://www.youtube.com/watch?v=rnL9Raf5shM"
+	},
+	{
+		"title": "Bring your own licenses to AWS with EC2 Dedicated Hosts",
+		"url": "https://www.youtube.com/watch?v=Rj5B--a-kvY"
+	},
+	{
+		"title": "AWS November 2015 Webinar Series - Architectural Patterns & Best Practices for Big Data on AWS",
+		"url": "https://www.youtube.com/watch?v=Mq-Nq0Lk0Rg"
+	},
+	{
+		"title": "AWS November 2015 Webinar Series - Advanced Analytics with Amazon Redshift",
+		"url": "https://www.youtube.com/watch?v=zF1LMWddSGo"
+	},
+	{
+		"title": "Journey Through the Cloud - Digital Media",
+		"url": "https://www.youtube.com/watch?v=jdWAc8ls7FU"
+	},
+	{
+		"title": "AWS November 2015 Webinar Series - Aurora Deep Dive",
+		"url": "https://www.youtube.com/watch?v=JqbW6OpblQ0"
+	},
+	{
+		"title": "AWS November 2015 Webinar Series - Essentials: Standard-Infrequent Access",
+		"url": "https://www.youtube.com/watch?v=P0pKdy_Y0CM"
+	},
+	{
+		"title": "AWS November 2015 Webinar Series - Essentials: Introducing Config Rules",
+		"url": "https://www.youtube.com/watch?v=SpXZtN0Pjzw"
+	},
+	{
+		"title": "AWS November 2015 Webinar Series - Essentials: Using the Amazon ECS CLI",
+		"url": "https://www.youtube.com/watch?v=MMr78xAiZpQ"
+	},
+	{
+		"title": "AWS November 2015 Webinar Series - Essentials: Introducing Amazon CloudWatch Dashboards",
+		"url": "https://www.youtube.com/watch?v=BcWafMCjQEI"
+	},
+	{
+		"title": "AWS November 2015 Webinar Series - Overview: Introducing Amazon QuickSight",
+		"url": "https://www.youtube.com/watch?v=YiVwE3SPKbo"
+	},
+	{
+		"title": "AWS November 2015 Webinar Series - Essentials: Automated Mobile Application Testing and AWS Device",
+		"url": "https://www.youtube.com/watch?v=CLeb1wjctuU"
+	},
+	{
+		"title": "AWS July Webinar Series - Getting Started with Amazon Device Farm",
+		"url": "https://www.youtube.com/watch?v=ypL0wIeuJNY"
+	},
+	{
+		"title": "AWS October 2015 Webinar Series - Essentials: Introducing AWS Import / Export Snowball",
+		"url": "https://www.youtube.com/watch?v=J8XFx4nBpyo"
+	},
+	{
+		"title": "AWS October 2015 Webinar Series - Essentials: Introducing AWS Mobile Hub",
+		"url": "https://www.youtube.com/watch?v=m82CdBu5HN8"
+	},
+	{
+		"title": "AWS October 2015 Webinar Series - Essentials: Introducing AWS WAF",
+		"url": "https://www.youtube.com/watch?v=Q_HZWmgnIZw"
+	},
+	{
+		"title": "AWS October 2015 Webinar Series - Essentials: Introducing Amazon Elasticsearch Service",
+		"url": "https://www.youtube.com/watch?v=cn7QLSPB3OA"
+	},
+	{
+		"title": "AWS October 2015 Webinar Series - Essentials: AWS Lambda Best Practices",
+		"url": "https://www.youtube.com/watch?v=nTIgpOLaLS8"
+	},
+	{
+		"title": "AWS October 2015 Webinar Series - Essentials: Using Spot Instances to Save off Your EC2",
+		"url": "https://www.youtube.com/watch?v=UDio1YV7-lY"
+	},
+	{
+		"title": "AWS October 2015 Webinar Series - Essentials: Introducing Amazon Kinesis Firehose",
+		"url": "https://www.youtube.com/watch?v=ATKNr3sHXpM"
+	},
+	{
+		"title": "AWS October 2015 Webinar Series - Essentials: Getting Started with AWS IoT",
+		"url": "https://www.youtube.com/watch?v=GdtV27LKGtQ"
+	},
+	{
+		"title": "AWS October 2015 Webinar Series - Overview: Introducing Amazon QuickSight",
+		"url": "https://www.youtube.com/watch?v=f3-m-tmpIDA"
+	},
+	{
+		"title": "Amazon Redshift Masterclass",
+		"url": "https://www.youtube.com/watch?v=GgLKodmL5xE"
+	},
+	{
+		"title": "re:Invent 2015 Service Launches - EMEA Analyst Webinar",
+		"url": "https://www.youtube.com/watch?v=zx7nrIEGuoY"
+	},
+	{
+		"title": "Journey Through the Cloud - Disaster Recovery",
+		"url": "https://www.youtube.com/watch?v=YFuOTcOI8Bw"
+	},
+	{
+		"title": "AWS July Webinar Series – Getting Started with Amazon DynamoDB",
+		"url": "https://www.youtube.com/watch?v=7elel-asftY"
+	},
+	{
+		"title": "AWS August Webinar Series - Building Serverless Backends with AWS Lambda and Amazon API Gateway 200",
+		"url": "https://www.youtube.com/watch?v=dCv0gZLjcNY"
+	},
+	{
+		"title": "AWS August Webinar Series - Save Up to 90% on your Amazon EC2 Bill with Spot Instances 200 level",
+		"url": "https://www.youtube.com/watch?v=eS45ZoMwWJk"
+	},
+	{
+		"title": "AWS August Webinar Series - Running Batch Jobs on Amazon EC2 Container Service 200",
+		"url": "https://www.youtube.com/watch?v=YGkOe_-w2Pk"
+	},
+	{
+		"title": "AWS August Webinar Series - Best Practices for DDoS Resiliency 200",
+		"url": "https://www.youtube.com/watch?v=Fb866QDLH6U"
+	},
+	{
+		"title": "AWS August Webinar Series  - AWS Service Overview 100",
+		"url": "https://www.youtube.com/watch?v=PjYsnRzrNF4"
+	},
+	{
+		"title": "AWS August Webinar Series - Amazon S3 Deep Dive and Best Practices 300",
+		"url": "https://www.youtube.com/watch?v=ZIzRU__L3e4"
+	},
+	{
+		"title": "AWS August Webinar Series - Get insights for your app usage with Amazon Mobile Analytics 200",
+		"url": "https://www.youtube.com/watch?v=NxxEGMGmme8"
+	},
+	{
+		"title": "AWS September  Webinar Series:  Running Microservices with Amazon EC2 Container Service 200",
+		"url": "https://www.youtube.com/watch?v=58W6e6Nep8A"
+	},
+	{
+		"title": "AWS August Webinar Series - Intro. Amazon Aurora :  A New MySQL Compatible Database",
+		"url": "https://www.youtube.com/watch?v=QpVrPO3-EYA"
+	},
+	{
+		"title": "AWS September - Webinar SeriesVisual Effects Rendering in the AWS Cloud with ThinkBox 200",
+		"url": "https://www.youtube.com/watch?v=6g4_C8R2A1k"
+	},
+	{
+		"title": "AWS September  Webinar Series:  Building your first Big Data application on AWS 200",
+		"url": "https://www.youtube.com/watch?v=df79_UWelsY"
+	},
+	{
+		"title": "AWS August Webinar Series - Getting Started with AWS Service Catalog 200",
+		"url": "https://www.youtube.com/watch?v=aNobfwae9Fc"
+	},
+	{
+		"title": "AWS Sept  - Webinar Series : Build Cross Platform Mobile Apps with AWS and the New Xamarin SDK 200",
+		"url": "https://www.youtube.com/watch?v=WPjeuqa2Lcs"
+	},
+	{
+		"title": "AWS September - Getting Started with DynamoDB Streams 200",
+		"url": "https://www.youtube.com/watch?v=YhcKQG4i6DY"
+	},
+	{
+		"title": "AWS September  - Infrastructure Deployment and Monitoring with AWS Lambda and Amazon SNS  200",
+		"url": "https://www.youtube.com/watch?v=tQBsGksS610"
+	},
+	{
+		"title": "AWS July Webinar Series  - Overview  Build and Manage your APIs with Amazon API Gateway ~New~",
+		"url": "https://www.youtube.com/watch?v=e9B-eIAirZ4"
+	},
+	{
+		"title": "AWS July Webinar Series - Deploying and Scaling Web Application with AWS Elastic Beanstalk",
+		"url": "https://www.youtube.com/watch?v=EPSQeDdClRY"
+	},
+	{
+		"title": "AWS July Webinar Series - Deep Dive:  Troubleshooting Operational and Security using CloudTrail",
+		"url": "https://www.youtube.com/watch?v=WrvjEHeh_-Y"
+	},
+	{
+		"title": "AWS July Webinar Series - Best Practices: OpsWorks for Windows on AWS",
+		"url": "https://www.youtube.com/watch?v=TFBo-mIHryw"
+	},
+	{
+		"title": "AWS July Webinar Series - Best Practices:  Amazon Redshift Reporting and Advanced Analytics",
+		"url": "https://www.youtube.com/watch?v=w2YdJuTblUM"
+	},
+	{
+		"title": "AWS July Webinar Series - Best Practices:  Amazon Redshift Optimizing Performance",
+		"url": "https://www.youtube.com/watch?v=9Tq7ZKywaKY"
+	},
+	{
+		"title": "Advanced Security Best Practices Masterclass",
+		"url": "https://www.youtube.com/watch?v=zU1x5SfKEzs"
+	},
+	{
+		"title": "Deploying line of business desktop apps using Amazon WAM",
+		"url": "https://www.youtube.com/watch?v=8egLEb9qbKg"
+	},
+	{
+		"title": "Deploying and Managing Applications in Amazon WorkSpaces",
+		"url": "https://www.youtube.com/watch?v=7Ky-8z61eTo"
+	},
+	{
+		"title": "Journey Through the Cloud -  Security Best Practices",
+		"url": "https://www.youtube.com/watch?v=rXPyGDWKHIo"
+	},
+	{
+		"title": "Overview  The AWS Big Data Platform",
+		"url": "https://www.youtube.com/watch?v=t6nQqihqpKk"
+	},
+	{
+		"title": "Amazon EC2 Masterclass",
+		"url": "https://www.youtube.com/watch?v=jLVPqoV4YjU"
+	},
+	{
+		"title": "Journey Through the Cloud - Social & Mobile Apps",
+		"url": "https://www.youtube.com/watch?v=5w8ntFp4_kc"
+	},
+	{
+		"title": "AWS June Webinar Series - Deep Dive: Big Data | Data Collection & Storage",
+		"url": "https://www.youtube.com/watch?v=QGE244W3bDU"
+	},
+	{
+		"title": "Amazon EMR Masterclass",
+		"url": "https://www.youtube.com/watch?v=zc1_Rfb_txQ"
+	},
+	{
+		"title": "AWS June Webinar Series - Getting Started: Lowering Total Cost of Ownership with AWS",
+		"url": "https://www.youtube.com/watch?v=r00uB61w7XU"
+	},
+	{
+		"title": "AWS June Webinar Series - Best Practices: SQL Server on Amazon RDS and EC2",
+		"url": "https://www.youtube.com/watch?v=AtASjS0hVDA"
+	},
+	{
+		"title": "AWS June Webinar Series - Deep Dive: Maximizing EC2 and EBS Performance",
+		"url": "https://www.youtube.com/watch?v=dcl7bytKBYU"
+	},
+	{
+		"title": "AWS June Webinar Series - Deep dive: Hybrid Architectures",
+		"url": "https://www.youtube.com/watch?v=n6eL9W1Go08"
+	},
+	{
+		"title": "AWS June Webinar Series - Deep Dive: Big Data Analytics and Business Intelligence",
+		"url": "https://www.youtube.com/watch?v=oMpq3dDry3k"
+	},
+	{
+		"title": "AWS June Webinar Series - Getting Started: Amazon Redshift",
+		"url": "https://www.youtube.com/watch?v=biqBjWqJi-Q"
+	},
+	{
+		"title": "AWS June Webinar Series - Deep Dive: Protecting Your Data with AWS Encryption",
+		"url": "https://www.youtube.com/watch?v=G_9bFNMfe-U"
+	},
+	{
+		"title": "AWS June Webinar Series - Best Practices: Dynamic Data Ingestion with S3 and Lambda",
+		"url": "https://www.youtube.com/watch?v=um3PcPeScL4"
+	},
+	{
+		"title": "AWS Webcast - Using AWS to Deliver High-Performance Scientific Applications",
+		"url": "https://www.youtube.com/watch?v=TAOb3ml1_Ok"
+	},
+	{
+		"title": "AWS Webcast - Using AWS to Deliver High-Performance Scientific Applications",
+		"url": "https://www.youtube.com/watch?v=ItnY58OYARU"
+	},
+	{
+		"title": "AWS March Webinar Series - Getting Started with Amazon Web Services",
+		"url": "https://www.youtube.com/watch?v=FAItlgC5go4"
+	},
+	{
+		"title": "Journey Through the Cloud - Data Analysis",
+		"url": "https://www.youtube.com/watch?v=ueRarqsCbJM"
+	},
+	{
+		"title": "AWS May Webinar Series - Getting Started: AWS Services Overview",
+		"url": "https://www.youtube.com/watch?v=1sQ7gupFQpo"
+	},
+	{
+		"title": "AWS May Webinar Series - Industry Trends and Best Practices for Cloud Adoption",
+		"url": "https://www.youtube.com/watch?v=oTf1Kz7Djfg"
+	},
+	{
+		"title": "AWS May Webinar Series - Streaming Data Processing with Amazon Kinesis and AWS Lambda",
+		"url": "https://www.youtube.com/watch?v=XFHtsUgH-L8"
+	},
+	{
+		"title": "AWS Webcast - Launch & Learn: Amazon EC2 for Microsoft Windows Server",
+		"url": "https://www.youtube.com/watch?v=vAjRF8EEzTQ"
+	},
+	{
+		"title": "AWS May Webinar Series: Getting Started with AWS Identity and Access Management",
+		"url": "https://www.youtube.com/watch?v=suOObEz_2Fc"
+	},
+	{
+		"title": "AWS May Webinar Series - Deep Dive: Amazon Virtual Private Cloud",
+		"url": "https://www.youtube.com/watch?v=uQ9HQVTmhBQ"
+	},
+	{
+		"title": "AWS May Webinar Series - Best Practices  Scaling Up to Your First 10 Million Users 0 0",
+		"url": "https://www.youtube.com/watch?v=9hyKNSFtC2U"
+	},
+	{
+		"title": "AWS May Webinar Series - Getting Started with Amazon EMR",
+		"url": "https://www.youtube.com/watch?v=mx5xtC2O46s"
+	},
+	{
+		"title": "AWS May Webinar Series - Deep Dive: Infrastructure as Code",
+		"url": "https://www.youtube.com/watch?v=HEyklTbXfMk"
+	},
+	{
+		"title": "AWS May Webinar Series - Storage with Amazon S3 and Amazon Glacier",
+		"url": "https://www.youtube.com/watch?v=zLR6xl4Mmvk"
+	},
+	{
+		"title": "AWS Webcast - 2015 NOAA Big Data Project Information Session Webinar",
+		"url": "https://www.youtube.com/watch?v=nVjzjAxzQ68"
+	},
+	{
+		"title": "Amazon S3 Masterclass",
+		"url": "https://www.youtube.com/watch?v=VC0k-noNwOU"
+	},
+	{
+		"title": "AWS April Webinar Series - Securely Deliver High Quality Content with AWS and Wowza",
+		"url": "https://www.youtube.com/watch?v=ZjuhmhYfcjY"
+	},
+	{
+		"title": "AWS April Webinar Series - AWS Lambda: Event-driven Code for Devices and the Cloud",
+		"url": "https://www.youtube.com/watch?v=YEWtQsqIYsk"
+	},
+	{
+		"title": "AWS April Webinar Series - Introduction to Amazon Machine Learning",
+		"url": "https://www.youtube.com/watch?v=kv60azrH5LM"
+	},
+	{
+		"title": "AWS April Webinar Series - Easily Build and Scale Mobile Apps with AWS Mobile Services",
+		"url": "https://www.youtube.com/watch?v=CVnb2MUYIHU"
+	},
+	{
+		"title": "AWS April Webinar Series - Getting Started with AWS CodeDeploy",
+		"url": "https://www.youtube.com/watch?v=zHOQnTNxIKM"
+	},
+	{
+		"title": "AWS April Webinar Series - Amazon EFS: Scalable, Shared File Storage for Amazon EC2",
+		"url": "https://www.youtube.com/watch?v=8NYJo4slRGg"
+	},
+	{
+		"title": "AWS April Webinar Series - Compliance Beyond the Check Box",
+		"url": "https://www.youtube.com/watch?v=LlIBbDU0oiQ"
+	},
+	{
+		"title": "AWS April Webinar Series - Getting Started with Amazon EC2 Container Service",
+		"url": "https://www.youtube.com/watch?v=MRoPaHUttoA"
+	},
+	{
+		"title": "AWS April Webinar Series - How Willbros Builds Securely in AWS with Trend Micro",
+		"url": "https://www.youtube.com/watch?v=WowGsdVJIcE"
+	},
+	{
+		"title": "Journey Through the Cloud - Scalable Web Apps",
+		"url": "https://www.youtube.com/watch?v=-Ivhe1afw-0"
+	},
+	{
+		"title": "Introduction to Amazon EC2",
+		"url": "https://www.youtube.com/watch?v=KpVNEzpvaY0"
+	},
+	{
+		"title": "Introduction to AWS Storage Services",
+		"url": "https://www.youtube.com/watch?v=c_Xy3TubUoc"
+	},
+	{
+		"title": "AWS Webcast - Benefits of Using Modern HTTP-Based Streaming Protocols",
+		"url": "https://www.youtube.com/watch?v=jz1OTprHQvE"
+	},
+	{
+		"title": "Amazon Elastic File System (EFS)",
+		"url": "https://www.youtube.com/watch?v=OyMqALRqG6s"
+	},
+	{
+		"title": "Deep Dive : Maximizing Performance for Amazon EC2 & Amazon EBS",
+		"url": "https://www.youtube.com/watch?v=eAjzjsNIPOo"
+	},
+	{
+		"title": "Introduction to Databases Services",
+		"url": "https://www.youtube.com/watch?v=bxrW7D8y5pM"
+	},
+	{
+		"title": "Deep Dive : Infrastructure as Code",
+		"url": "https://www.youtube.com/watch?v=E-3fNwPY_mE"
+	},
+	{
+		"title": "Scaling the Platform for your Startup",
+		"url": "https://www.youtube.com/watch?v=cRwGmHzRcyU"
+	},
+	{
+		"title": "AWS Webcast - Getting Started with Amazon Web Services",
+		"url": "https://www.youtube.com/watch?v=1Eh1uxLyXJ8"
+	},
+	{
+		"title": "AWS Webcast - Getting Started with AWS OpsWorks",
+		"url": "https://www.youtube.com/watch?v=AQWl5jLtsTc"
+	},
+	{
+		"title": "AWS Webcast - Best Practices for Content Delivery using Amazon CloudFront",
+		"url": "https://www.youtube.com/watch?v=s9Xt1qzD6SA"
+	},
+	{
+		"title": "AWS Webcast - Getting Started with Amazon WorkSpaces",
+		"url": "https://www.youtube.com/watch?v=kHwr2AEPYho"
+	},
+	{
+		"title": "AWS Webcast - Understanding The AWS Security Model",
+		"url": "https://www.youtube.com/watch?v=yVWHNJel7Qs"
+	},
+	{
+		"title": "AWS Webcast - Design For Availability",
+		"url": "https://www.youtube.com/watch?v=Rh-yTPZnE-8"
+	},
+	{
+		"title": "AWS Webcast - Cost and Performance Optimization in Amazon RDS",
+		"url": "https://www.youtube.com/watch?v=SHObh1Iozp4"
+	},
+	{
+		"title": "AWS CloudFormation Masterclass",
+		"url": "https://www.youtube.com/watch?v=6R44BADNJA8"
+	},
+	{
+		"title": "Ask an Architect",
+		"url": "https://www.youtube.com/watch?v=vtB6_Cpv0Sg"
+	},
+	{
+		"title": "AWS Webcast - Best Practices for Deploying SAP Workloads on AWS",
+		"url": "https://www.youtube.com/watch?v=a-EaB4rwQik"
+	},
+	{
+		"title": "Questions of the Week",
+		"url": "https://www.youtube.com/watch?v=m4ZI1_taCMA"
+	},
+	{
+		"title": "AWS Webcast - What is Cloud Computing on AWS",
+		"url": "https://www.youtube.com/watch?v=kEuI5iwkft0"
+	},
+	{
+		"title": "AWS Webcast - Storage and Backup",
+		"url": "https://www.youtube.com/watch?v=o7j8uuOz4Mc"
+	},
+	{
+		"title": "AWS Webcast - Masterclass Amazon Elastic MapReduce EMR",
+		"url": "https://www.youtube.com/watch?v=dQH2FqUcQog"
+	},
+	{
+		"title": "AWS Webcast - Journey Through the AWS Cloud Dev and Test in the AWS Cloud",
+		"url": "https://www.youtube.com/watch?v=NdgIG5cjQig"
+	},
+	{
+		"title": "AWS Webinars  Masterclass   Amazon Simple Storage Service  S3",
+		"url": "https://www.youtube.com/watch?v=tY5yMChT3i4"
+	},
+	{
+		"title": "AWS Webcast - Masterclass Amazon Elastic Cloud Compute EC2",
+		"url": "https://www.youtube.com/watch?v=1qrkCYcAE78"
+	},
+	{
+		"title": "Launching Your First Big Data Project on AWS",
+		"url": "https://www.youtube.com/watch?v=B_4_GKEvcYg"
+	},
+	{
+		"title": "Accelerating  Innovation with DevOps on AWS",
+		"url": "https://www.youtube.com/watch?v=9sHxlXO5wVA"
+	},
+	{
+		"title": "7 ways to Accelerate your Enterprise Journey to the Cloud",
+		"url": "https://www.youtube.com/watch?v=MWKWjlZTRps"
+	},
+	{
+		"title": "Delivering Mobile Apps Using AWS Mobile Services",
+		"url": "https://www.youtube.com/watch?v=Jeww4kD_wzM"
+	},
+	{
+		"title": "Running Business Critical Applications on the AWS Cloud",
+		"url": "https://www.youtube.com/watch?v=K8ISdBYxToQ"
+	},
+	{
+		"title": "Top 5 Ways to Optimize for Cost Efficiency with the Cloud",
+		"url": "https://www.youtube.com/watch?v=VBiSD08Im_0"
+	},
+	{
+		"title": "Understand AWS Storage Options",
+		"url": "https://www.youtube.com/watch?v=Z5vNK6U2HKA"
+	},
+	{
+		"title": "Top 5 Ways To Secure Your Business On The Cloud",
+		"url": "https://www.youtube.com/watch?v=OPe2GjqHkjk"
+	},
+	{
+		"title": "Letting AWS run your Low Admin, High Performance Database",
+		"url": "https://www.youtube.com/watch?v=dj1k102MkhM"
+	},
+	{
+		"title": "Common Workloads On The AWS Cloud",
+		"url": "https://www.youtube.com/watch?v=0TAgbAElPl4"
+	},
+	{
+		"title": "Leveraging Elastic Web scale Computing With AWS",
+		"url": "https://www.youtube.com/watch?v=5aJugxqouBo"
+	},
+	{
+		"title": "Introduction to Cloud Computing with Amazon Web Services",
+		"url": "https://www.youtube.com/watch?v=XrBsAHx6rV0"
+	},
+	{
+		"title": "Amazon RDS for MySQL: Best Practices and Migration",
+		"url": "https://www.youtube.com/watch?v=-my0q7aADcY"
+	},
+	{
+		"title": "Dev and Test on AWS - Journey Through the Cloud",
+		"url": "https://www.youtube.com/watch?v=hdIYrzjBhmA"
+	},
+	{
+		"title": "Instructing on the Cloud: Using AWS to Aid Professors and Teach Students",
+		"url": "https://www.youtube.com/watch?v=DUjRapA2uGM"
+	},
+	{
+		"title": "Cost Optimisation on AWS",
+		"url": "https://www.youtube.com/watch?v=kId90Q7b6kY"
+	},
+	{
+		"title": "Best Practices for Getting Started on AWS",
+		"url": "https://www.youtube.com/watch?v=T64qFcyTGAU"
+	},
+	{
+		"title": "What is Cloud Computing with Amazon Web Services?",
+		"url": "https://www.youtube.com/watch?v=QROD20r6-sQ"
+	},
+	{
+		"title": "AWS Webcast - Best Practices for Getting the Most Out of Amazon RDS",
+		"url": "https://www.youtube.com/watch?v=6kdWJcPWbP8"
+	},
+	{
+		"title": "AWS Webcast - Amazon EC2 Container Service Deep Dive",
+		"url": "https://www.youtube.com/watch?v=JIuyCgNg8io"
+	},
+	{
+		"title": "AWS Webcast - Top 3 Ways to Improve Web App Security",
+		"url": "https://www.youtube.com/watch?v=yFdDDLty_9U"
+	},
+	{
+		"title": "AWS Webcast - How to Migrate On-premise NAS Storage to Cloud NAS Storage",
+		"url": "https://www.youtube.com/watch?v=PuCRbijtAR8"
+	},
+	{
+		"title": "AWS Webcast - Reduce the Attack Surface of Your AWS Deployments",
+		"url": "https://www.youtube.com/watch?v=ovh3LdZf5nk"
+	},
+	{
+		"title": "Reduce the Attack Surface of Your AWS Deployments 0 0",
+		"url": "https://www.youtube.com/watch?v=0bRuvKOHYEI"
+	},
+	{
+		"title": "AWS Webcast - Harnessing the Agility and Resilience of AWS",
+		"url": "https://www.youtube.com/watch?v=sV1a1jAdS4s"
+	},
+	{
+		"title": "Autoscaling Master Class - The New \"Capacity Plan\"",
+		"url": "https://www.youtube.com/watch?v=gYtf3b-e3vg"
+	},
+	{
+		"title": "Real time Data Processing Internet Of Things (IoT) With Amazon Kinesis",
+		"url": "https://www.youtube.com/watch?v=xS1QZ2HQkzQ"
+	},
+	{
+		"title": "Key Launches Of 2014 – The Glenn Gore Top 10 Countdown",
+		"url": "https://www.youtube.com/watch?v=Xwc0n9pgO7E"
+	},
+	{
+		"title": "Cloud Migration - But How?",
+		"url": "https://www.youtube.com/watch?v=CvvZvLp6_XM"
+	},
+	{
+		"title": "Big Data on AWS – Structured, Unstructured Streaming",
+		"url": "https://www.youtube.com/watch?v=xHotpwKCHB0"
+	},
+	{
+		"title": "AWS Webcast - High Availability for Mission Critical Applications",
+		"url": "https://www.youtube.com/watch?v=ocAqif0MTWA"
+	},
+	{
+		"title": "Securing Your Business on the AWS Cloud",
+		"url": "https://www.youtube.com/watch?v=UU6oQ8_SPtQ"
+	},
+	{
+		"title": "Maintaining Performance & Availability While Lowering Costs with AWS",
+		"url": "https://www.youtube.com/watch?v=wpciV5tqcDY"
+	},
+	{
+		"title": "What is Cloud Computing?",
+		"url": "https://www.youtube.com/watch?v=oFFhVAaLqrg"
+	},
+	{
+		"title": "DevOps Culture - Continuous Integration Continuous Deployment On The Aws Cloud 1",
+		"url": "https://www.youtube.com/watch?v=5ZCk8I0OYz4"
+	},
+	{
+		"title": "Amazon RDS for MySQL - Best Practices for Performance and Scale",
+		"url": "https://www.youtube.com/watch?v=UbhWSg4EM8Q"
+	},
+	{
+		"title": "Delivering Mobile Apps using the AWS Mobile Services Javascript SDKs",
+		"url": "https://www.youtube.com/watch?v=R4z9N5KUybs"
+	},
+	{
+		"title": "Amazon EC2 Masterclass - Getting the most from Amazon EC2",
+		"url": "https://www.youtube.com/watch?v=WuPsSos3eGw"
+	},
+	{
+		"title": "Journey Through the Cloud - Mobile & Social Apps",
+		"url": "https://www.youtube.com/watch?v=LA9kjxDLk9k"
+	},
+	{
+		"title": "Amazon RDS - Letting AWS run your Low Admin, High Performance Database",
+		"url": "https://www.youtube.com/watch?v=mmTHRit7_Ko"
+	},
+	{
+		"title": "Introduction to Cloud Computing with Amazon Web Services",
+		"url": "https://www.youtube.com/watch?v=v_uakOiZ_pc"
+	},
+	{
+		"title": "Your First Week with the AWS Cloud",
+		"url": "https://www.youtube.com/watch?v=RL0D05CZ31c"
+	},
+	{
+		"title": "Datacenter Migration to AWS - Featuring BlueMetal",
+		"url": "https://www.youtube.com/watch?v=J8nkMB1GWxE"
+	},
+	{
+		"title": "Datacenter Migration to AWS - Featuring Neudesic",
+		"url": "https://www.youtube.com/watch?v=TLqkecRTJp8"
+	},
+	{
+		"title": "AWS Tools for Windows PowerShell",
+		"url": "https://www.youtube.com/watch?v=0-cnBy5AoWk"
+	},
+	{
+		"title": "AWS Webcast - Migrating Applications to Amazon RDS for Oracle",
+		"url": "https://www.youtube.com/watch?v=PREXeqkE2bU"
+	},
+	{
+		"title": "Masterclass WorkSpaces",
+		"url": "https://www.youtube.com/watch?v=6VLzMMLzB1g"
+	},
+	{
+		"title": "APN Partner Webinar - AWS Marketplace & Test Drive",
+		"url": "https://www.youtube.com/watch?v=A5PGFj8GqoY"
+	},
+	{
+		"title": "Journey Through the Cloud - Digital Media",
+		"url": "https://www.youtube.com/watch?v=257u5gWuDdM"
+	},
+	{
+		"title": "DevOps for the Enterprise: Virtual Office Hours",
+		"url": "https://www.youtube.com/watch?v=pw9hlPqtHAA"
+	},
+	{
+		"title": "APN Partner Webinar - Security & Compliance for AWS EMEA Partners",
+		"url": "https://www.youtube.com/watch?v=vgRpkcepAYI"
+	},
+	{
+		"title": "AWS Webinar - IoT with AWS  Smart Devices Powered By the Cloud",
+		"url": "https://www.youtube.com/watch?v=Nk4G078-Jgo"
+	},
+	{
+		"title": "AWS Webinar - IoT with AWS  Smart Devices Powered By the Cloud",
+		"url": "https://www.youtube.com/watch?v=Jd5nU9Z3pIE"
+	},
+	{
+		"title": "AWS Webcast - How Autodesk strengthens operations with Splunk & AWS",
+		"url": "https://www.youtube.com/watch?v=t4gCobf3T74"
+	},
+	{
+		"title": "DevOps for the Enterprise: Continuous Deployment",
+		"url": "https://www.youtube.com/watch?v=VoJfSHiW1UU"
+	},
+	{
+		"title": "AWS Webcast - Continuous integration with AWS and Ravello",
+		"url": "https://www.youtube.com/watch?v=cYGAiV-TuSA"
+	},
+	{
+		"title": "Demo: Deploying Docker Containers with AWS Elastic Beanstalk",
+		"url": "https://www.youtube.com/watch?v=twmsX0mWqcQ"
+	},
+	{
+		"title": "Journey Through the Cloud - Security Best Practices on AWS",
+		"url": "https://www.youtube.com/watch?v=Ihe_8o00-WI"
+	},
+	{
+		"title": "APN Partner Webinar - Having Effective and Critical TCO Conversations",
+		"url": "https://www.youtube.com/watch?v=BaPEf_f0N5U"
+	},
+	{
+		"title": "AWS Webinar - Delivering Apps and Websites Without Servers",
+		"url": "https://www.youtube.com/watch?v=caM112i1Iv4"
+	},
+	{
+		"title": "DevOps for the Enterprise: Automated Testing & Monitoring",
+		"url": "https://www.youtube.com/watch?v=Czf6dmhOzR0"
+	},
+	{
+		"title": "AWS Webinar - Big Data & Analytics Use Cases in Mobile, E Commerce and Media",
+		"url": "https://www.youtube.com/watch?v=ZUKEsWSblsw"
+	},
+	{
+		"title": "Masterclass Webinar - Amazon Redshift",
+		"url": "https://www.youtube.com/watch?v=-FmCWcxRvXY"
+	},
+	{
+		"title": "Datacenter Migration to AWS featuring Nimbo",
+		"url": "https://www.youtube.com/watch?v=6GxM_U9x4fg"
+	},
+	{
+		"title": "AWS Webinar - Developing Mobile Apps with AWS",
+		"url": "https://www.youtube.com/watch?v=ddCSUFnK5es"
+	},
+	{
+		"title": "SharePoint 2013 on AWS",
+		"url": "https://www.youtube.com/watch?v=OO0Pd87jg1w"
+	},
+	{
+		"title": "Journey Through the Cloud - Big Data",
+		"url": "https://www.youtube.com/watch?v=7bkqopn19WY"
+	},
+	{
+		"title": "AWS Webcast - Improving Customer Experience and Growing Addressable Market",
+		"url": "https://www.youtube.com/watch?v=DdICeidI7FA"
+	},
+	{
+		"title": "DevOps for the Enterprise: Automating Deployments Webinar",
+		"url": "https://www.youtube.com/watch?v=5WwWylmZE7Y"
+	},
+	{
+		"title": "AWS Webcast - Backup na AWS – introdução e conceitos básicos",
+		"url": "https://www.youtube.com/watch?v=iGQ1K94teoY"
+	},
+	{
+		"title": "AWS Webcast - Remote Desktop Gateway on AWS",
+		"url": "https://www.youtube.com/watch?v=SV4_3_j9ZoI"
+	},
+	{
+		"title": "AWS Webcast - Backup and Archiving in the AWS Cloud",
+		"url": "https://www.youtube.com/watch?v=H9_MvmTMOzo"
+	},
+	{
+		"title": "AWS Webcast - AWS Cloud Solution for State and Local Law Enforcement Agencies",
+		"url": "https://www.youtube.com/watch?v=UIJZ5DuFUhQ"
+	},
+	{
+		"title": "What is Cloud Computing with AWS?",
+		"url": "https://www.youtube.com/watch?v=ybcV0sJ_T_I"
+	},
+	{
+		"title": "AWS Webcast - Website Hosting for Education",
+		"url": "https://www.youtube.com/watch?v=sqPKa9UCgmI"
+	},
+	{
+		"title": "AWS Webcast - Discover Disaster Recovery Solutions in AWS Cloud",
+		"url": "https://www.youtube.com/watch?v=b0-s7-labsE"
+	},
+	{
+		"title": "AWS Webcast - Designing Scalable, Available and Resilient Cloud Applications",
+		"url": "https://www.youtube.com/watch?v=-hxfRzxzfMM"
+	},
+	{
+		"title": "AWS Webcasts - AWS Activate: Scalable Databases for Fast Growing Start-Ups",
+		"url": "https://www.youtube.com/watch?v=WrSLezqpwrk"
+	},
+	{
+		"title": "AWS Webcast - SQL Server on AWS for High Availability",
+		"url": "https://www.youtube.com/watch?v=ddf0kBQ24fk"
+	},
+	{
+		"title": "Journey through the AWS Cloud: Cost Optimisation",
+		"url": "https://www.youtube.com/watch?v=yCKHvagyx3E"
+	},
+	{
+		"title": "DevOps for the Enterprise: Continuous Integration Webinar",
+		"url": "https://www.youtube.com/watch?v=5dJxhX1ChT4"
+	},
+	{
+		"title": "AWS Webcast - AWS 101 Webinar: Introduction to AWS (APAC)",
+		"url": "https://www.youtube.com/watch?v=SoxFNkOnnEs"
+	},
+	{
+		"title": "AWS Webcast - AWS 101 Webinar: Introduction to AWS",
+		"url": "https://www.youtube.com/watch?v=RarkNYq7bW0"
+	},
+	{
+		"title": "AWS Webcast - AWS 201 Webinar: Backup, Archive and Disaster Recovery",
+		"url": "https://www.youtube.com/watch?v=Eq4Ar0a_YRg"
+	},
+	{
+		"title": "AWS Webcast - AWS Activate Webinar for Startups: Developing on AWS",
+		"url": "https://www.youtube.com/watch?v=QBK25ec5VLI"
+	},
+	{
+		"title": "AWS Webcast - AWS 201 Webinar: Measuring your Application Performance and Health",
+		"url": "https://www.youtube.com/watch?v=1JFsj41bQec"
+	},
+	{
+		"title": "AWS Webcast - AWS Activate Webinar for Startups: Venture Capital, Funding and Pitching",
+		"url": "https://www.youtube.com/watch?v=6KanbN0_hBE"
+	},
+	{
+		"title": "AWS Webcast - AWS 201 Webinar: Using the Amazon Virtual Private Cloud (VPC)",
+		"url": "https://www.youtube.com/watch?v=pnDGTJqRguA"
+	},
+	{
+		"title": "AWS Webcast - Cost and Performance Optimization in Amazon RDS",
+		"url": "https://www.youtube.com/watch?v=xtkqNFwBiPU"
+	},
+	{
+		"title": "AWS Webcast - Library Storage Webinar",
+		"url": "https://www.youtube.com/watch?v=zht5T9Rxveo"
+	},
+	{
+		"title": "AWS Webcast - Delivering Dynamic Content using Amazon CloudFront",
+		"url": "https://www.youtube.com/watch?v=r5jb8IahmnQ"
+	},
+	{
+		"title": "EMEA Journey through the AWS Cloud: Disaster Recovery",
+		"url": "https://www.youtube.com/watch?v=2H1LQf5VzaE"
+	},
+	{
+		"title": "AWS Webcast - Open Data on AWS -- An Introduction",
+		"url": "https://www.youtube.com/watch?v=P7JdFQCNMUc"
+	},
+	{
+		"title": "AWS Webcast - Build high scale applications with Amazon DynamoDB",
+		"url": "https://www.youtube.com/watch?v=aczkQ3LIsps"
+	},
+	{
+		"title": "AWS Webcast - Janet Community Portal to Integrate AWS Cloud Services",
+		"url": "https://www.youtube.com/watch?v=DW_igh1VHPM"
+	},
+	{
+		"title": "AWS Webcast - Intro to DevOps  Using Amazon RDS with AWS OpsWorks",
+		"url": "https://www.youtube.com/watch?v=0OXUTLEFFqw"
+	},
+	{
+		"title": "AWS Webcast - Active Directory on AWS",
+		"url": "https://www.youtube.com/watch?v=oK_IkNTUPGw"
+	},
+	{
+		"title": "AWS Partner Webcast - Improving Your AWS Cost Efficiency with Cloudability",
+		"url": "https://www.youtube.com/watch?v=7VW6vYCFCFs"
+	},
+	{
+		"title": "AWS Partner Webcast - Cost Management: Tracking, Allocating, Controlling Spend",
+		"url": "https://www.youtube.com/watch?v=IxgmMqdTrnA"
+	},
+	{
+		"title": "AWS Webcast - Backup and Archiving in the AWS Cloud",
+		"url": "https://www.youtube.com/watch?v=jS5-Jl3G09I"
+	},
+	{
+		"title": "AWS Partner Webinar - Web App Security on AWS: How to Make Shared Security Work for You",
+		"url": "https://www.youtube.com/watch?v=rRuMGzYkmfc"
+	},
+	{
+		"title": "AWS Webcast - High Availability SQL Server with Amazon RDS",
+		"url": "https://www.youtube.com/watch?v=N3E9DuYAPEc"
+	},
+	{
+		"title": "AWS Webcast - Webinar Series for State and Local Government #3: Discover the Ease of AWS Deployment",
+		"url": "https://www.youtube.com/watch?v=PiSMdeav7wI"
+	},
+	{
+		"title": "Large Scale HTML5 Games on Desktops, Mobile & Tablets with KANO:Apps",
+		"url": "https://www.youtube.com/watch?v=0MmFS6W6CBo"
+	},
+	{
+		"title": "Engage Your Customers with SNS Mobile Push and Amazon Analytics",
+		"url": "https://www.youtube.com/watch?v=j2FwBbcERVQ"
+	},
+	{
+		"title": "Game Analytics",
+		"url": "https://www.youtube.com/watch?v=c0n6vzvsH4Q"
+	},
+	{
+		"title": "A|B Testing with Air Patriots",
+		"url": "https://www.youtube.com/watch?v=7z9YAFszt7w"
+	},
+	{
+		"title": "Scalable Gaming Architectures",
+		"url": "https://www.youtube.com/watch?v=HdhLhDWzKQM"
+	},
+	{
+		"title": "What's working in In App Monetization",
+		"url": "https://www.youtube.com/watch?v=OYR4gnV43Sk"
+	},
+	{
+		"title": "AWS Partner Webcast - Fast Insights from Disparate Data with Amazon Redshift and ClearStory Data",
+		"url": "https://www.youtube.com/watch?v=OE_FVO4cUxs"
+	},
+	{
+		"title": "AWS Webcast - Webinar Series for State and Local Government #2: Discover the Basics of AWS",
+		"url": "https://www.youtube.com/watch?v=U2U1MpSLM48"
+	},
+	{
+		"title": "AWS Webcast - Amazon RDS for MySQL: Best Practices and Migration",
+		"url": "https://www.youtube.com/watch?v=wG8OmV5VFcA"
+	},
+	{
+		"title": "AWS Webcast - Backup & Restore for ElastiCache/Redis: Getting Started",
+		"url": "https://www.youtube.com/watch?v=xKAnqOOtwvI"
+	},
+	{
+		"title": "AWS Partner Webcast - Get Closer to the Cloud with Federated Single Sign-On",
+		"url": "https://www.youtube.com/watch?v=3co_DlEAGDg"
+	},
+	{
+		"title": "AWS Webcast - Amazon CloudFront Office Hours: May 27, 2014",
+		"url": "https://www.youtube.com/watch?v=FDUw8RKXHWM"
+	},
+	{
+		"title": "AWS Webcast - State and Local Government Series 1 - Discover Cloud Computing",
+		"url": "https://www.youtube.com/watch?v=pv2sro-jQ7M"
+	},
+	{
+		"title": "AWS Webcast - AWS Webinar Series for Education #3 - Discover the Ease of AWS Deployment",
+		"url": "https://www.youtube.com/watch?v=X9sctP3QGS0"
+	},
+	{
+		"title": "AWS Webcast - AWS Webinar Series for Education #2 - What are the Basics of AWS",
+		"url": "https://www.youtube.com/watch?v=bLevwwq6v2Q"
+	},
+	{
+		"title": "AWS Partner Webcast - Use AWS CloudTrail Data and Splunk Software to Improve Security and Compliance",
+		"url": "https://www.youtube.com/watch?v=CXUxVtFUFW4"
+	},
+	{
+		"title": "AWS Webcast - Programa Para Parceiros de Tecnologia",
+		"url": "https://www.youtube.com/watch?v=IIo_HR3fAXs"
+	},
+	{
+		"title": "AWS Partner Webcast - Improve Application Performance and Business Results Through High Availability",
+		"url": "https://www.youtube.com/watch?v=Xo3s4IyZCXU"
+	},
+	{
+		"title": "AWS Webcast - AWS Webinar Series for Education #1 - What is Cloud Computing",
+		"url": "https://www.youtube.com/watch?v=EB03PKkRfU0"
+	},
+	{
+		"title": "AWS Partner Webcast - Build a Mobile App for Business in Minutes with the AWS Cloud",
+		"url": "https://www.youtube.com/watch?v=fkhd6S-KmA0"
+	},
+	{
+		"title": "AWS Summit London 2014 - Keynote",
+		"url": "https://www.youtube.com/watch?v=UgIH4MuQ3y4"
+	},
+	{
+		"title": "AWS Enterprise Summit London 2014 - Keynote",
+		"url": "https://www.youtube.com/watch?v=zk5QNwSQ6SA"
+	},
+	{
+		"title": "AWS Partner Webcast - Advanced Strategies for Leveraging AWS for Disaster Recovery",
+		"url": "https://www.youtube.com/watch?v=HIllQZlreR0"
+	},
+	{
+		"title": "AWS Webcast - Never Leave a Customer Behind: Scalable Web Apps with AWS",
+		"url": "https://www.youtube.com/watch?v=7OARyMZruls"
+	},
+	{
+		"title": "AWS Summit 2014 | San Francisco - Keynote with Andy Jassy",
+		"url": "https://www.youtube.com/watch?v=4gizlw5BTuc"
+	},
+	{
+		"title": "AWS Webcast - Build a Scalable Search Engine with the New Amazon CloudSearch",
+		"url": "https://www.youtube.com/watch?v=MaKiGbLEDxg"
+	},
+	{
+		"title": "AWS Webcast - Amazon RDS for Oracle: Best Practices and Migration",
+		"url": "https://www.youtube.com/watch?v=lYw1nZOOwWM"
+	},
+	{
+		"title": "AWS Webcast - Running SAP HANA on the AWS Cloud",
+		"url": "https://www.youtube.com/watch?v=z2zq-vHrSHI"
+	},
+	{
+		"title": "AWS Partner Webcast - Disaster Recovery: Implementing DR Across On-premises and AWS",
+		"url": "https://www.youtube.com/watch?v=0v2SgBpmukc"
+	},
+	{
+		"title": "AWS Webcast - Getting Started with Amazon Web Services (April 2014)",
+		"url": "https://www.youtube.com/watch?v=FQ5v0Hbfm-E"
+	},
+	{
+		"title": "AWS Webcast - AWS 201 A Walk through the AWS Cloud: Development & Test",
+		"url": "https://www.youtube.com/watch?v=Ef-MO3b6kJo"
+	},
+	{
+		"title": "AWS Partner Webcast - Data Center Migration to the AWS Cloud: A Customer's Experience",
+		"url": "https://www.youtube.com/watch?v=jE1-8vjMGrw"
+	},
+	{
+		"title": "AWS Webcast - Introducing Amazon WorkSpaces",
+		"url": "https://www.youtube.com/watch?v=w6-UP44nkYM"
+	},
+	{
+		"title": "AWS Webcast - AWS 201   Backup, Archive and Disaster Recovery",
+		"url": "https://www.youtube.com/watch?v=_mDhX1N6BdU"
+	},
+	{
+		"title": "AWS Webcast - Databases in the Cloud Series - Scalable Games and Analytics with AWS",
+		"url": "https://www.youtube.com/watch?v=bRjWNDtrflA"
+	},
+	{
+		"title": "AWS Partner Webcast - Best Practices for AWS Security and More Using CloudCheckr",
+		"url": "https://www.youtube.com/watch?v=XumdFoiG0VE"
+	},
+	{
+		"title": "Real-time Streaming and Querying with Amazon Kinesis and Amazon Elastic MapReduce",
+		"url": "https://www.youtube.com/watch?v=NIa33ZwFa8E"
+	},
+	{
+		"title": "Your First Week on Amazon Web Services",
+		"url": "https://www.youtube.com/watch?v=7CiHBcqw6zc"
+	},
+	{
+		"title": "Understanding AWS Security",
+		"url": "https://www.youtube.com/watch?v=rei30obkaBc"
+	},
+	{
+		"title": "Hardening Hadoop for Healthcare with Project Rhino",
+		"url": "https://www.youtube.com/watch?v=3wz28j-6w4k"
+	},
+	{
+		"title": "Updating Security Operations for the Cloud",
+		"url": "https://www.youtube.com/watch?v=o-9KR1q_n4g"
+	},
+	{
+		"title": "Backup and Archiving in the AWS Cloud",
+		"url": "https://www.youtube.com/watch?v=mgxZZpoufTI"
+	},
+	{
+		"title": "Applying Best Practices and Processes for Rapid Cloud Delivery",
+		"url": "https://www.youtube.com/watch?v=EDYb_aPSTQc"
+	},
+	{
+		"title": "Building a Global Multi-Tenant Monitoring Platform",
+		"url": "https://www.youtube.com/watch?v=7SbqLzyxGdI"
+	},
+	{
+		"title": "Amazon WorkSpaces -- Fully Managed Desktops in the Cloud",
+		"url": "https://www.youtube.com/watch?v=-OUZ3_pQr20"
+	},
+	{
+		"title": "Introduction to AWS Database Services",
+		"url": "https://www.youtube.com/watch?v=_N9PfjhdLx4"
+	},
+	{
+		"title": "Best Practices for Partnering with AWS",
+		"url": "https://www.youtube.com/watch?v=4QRU1uJgFY8"
+	},
+	{
+		"title": "APN & AWS Marketplace Overview: How to Build Your Business with AWS",
+		"url": "https://www.youtube.com/watch?v=SRY6KdDAOXo"
+	},
+	{
+		"title": "Maximizing EC2 and Elastic Block Store Disk Performance",
+		"url": "https://www.youtube.com/watch?v=3OH4-Hx3tlE"
+	},
+	{
+		"title": "From One to Many - Evolving VPC Design",
+		"url": "https://www.youtube.com/watch?v=GKSsJJqzyyI"
+	},
+	{
+		"title": "Power Big Data Analytics with Informatica Cloud Integration for Redshift, Kinesis and RDS",
+		"url": "https://www.youtube.com/watch?v=_5fD9IS4kMc"
+	},
+	{
+		"title": "Scaling on AWS for the First 10 Million Users",
+		"url": "https://www.youtube.com/watch?v=dUdSyMjCyDg"
+	},
+	{
+		"title": "Dynamic Content Acceleration: Lightning Fast Web Apps with Amazon CloudFront and Amazon Route 53",
+		"url": "https://www.youtube.com/watch?v=35p8Iiux0BA"
+	},
+	{
+		"title": "Optimizing Total Cost of Ownership for the AWS Cloud",
+		"url": "https://www.youtube.com/watch?v=0TsnCR6JMIM"
+	},
+	{
+		"title": "Improving Availability and Lowering Costs using Auto Scaling and Amazon EC2",
+		"url": "https://www.youtube.com/watch?v=uUiCvv14nbg"
+	},
+	{
+		"title": "Choosing the Right Data Storage Solution",
+		"url": "https://www.youtube.com/watch?v=eEcbmrcEizg"
+	},
+	{
+		"title": "Uses and Best Practices for Amazon Redshift",
+		"url": "https://www.youtube.com/watch?v=reQtXquDpzo"
+	},
+	{
+		"title": "Disaster Recovery Sites on AWS Minimal Cost, Maximum Efficiency Edit 2",
+		"url": "https://www.youtube.com/watch?v=ByXToiNjwKo"
+	},
+	{
+		"title": "Deploy, Manage, and Scale Your Apps with OpsWorks and Elastic Beanstalk",
+		"url": "https://www.youtube.com/watch?v=WNLIsqjkvu8"
+	},
+	{
+		"title": "From AWS to Series A in 5 Easy Pieces",
+		"url": "https://www.youtube.com/watch?v=BYeBiQKpyAg"
+	},
+	{
+		"title": "Introduction to Amazon EC2",
+		"url": "https://www.youtube.com/watch?v=A4V_QFLZgv4"
+	},
+	{
+		"title": "Big Data and High Performance Computing Solutions in the AWS Cloud",
+		"url": "https://www.youtube.com/watch?v=naCUrtd6XJE"
+	},
+	{
+		"title": "AWS Webcast - Journey to the AWS Cloud  Introduction to AWS APAC",
+		"url": "https://www.youtube.com/watch?v=erzBbSJrEIE"
+	},
+	{
+		"title": "AWS Partner Webcast - Hadoop in the Cloud: Unlocking the Potential of Big Data on AWS",
+		"url": "https://www.youtube.com/watch?v=v0S0u02TNbk"
+	},
+	{
+		"title": "AWS Partner Webcasts - Reporting and Analytics in the Cloud: A Customer's Perspective",
+		"url": "https://www.youtube.com/watch?v=Bn_kPNrcJtQ"
+	},
+	{
+		"title": "AWS Webcast - On Demand Video Streaming using Amazon CloudFront",
+		"url": "https://www.youtube.com/watch?v=MuQ_qg7U0l8"
+	},
+	{
+		"title": "AWS Partner Webcast - Make Decisions Faster with AWS and SAP on HANA",
+		"url": "https://www.youtube.com/watch?v=UOcYpAdlKTc"
+	},
+	{
+		"title": "AWS Webcast - Introduction to Amazon RDS: Low Admin, High Performance Databases in the Cloud",
+		"url": "https://www.youtube.com/watch?v=WI72E7YF670"
+	},
+	{
+		"title": "AWS Partner Webcast - Rapid and Reliable Implementation of Microsoft Workloads on AWS",
+		"url": "https://www.youtube.com/watch?v=OCXSqc9uRAE"
+	},
+	{
+		"title": "AWS Webcast - What is Cloud Computing with AWS",
+		"url": "https://www.youtube.com/watch?v=ZfHI7aBowvU"
+	},
+	{
+		"title": "AWS Partner Webcast - Step by Step Plan to Update and Migrate Microsoft Windows Server 2003",
+		"url": "https://www.youtube.com/watch?v=-lMS4hW5zNc"
+	},
+	{
+		"title": "AWS Partner Webcast - Advanced Strategies for AWS Cost Allocation with Tags and Linked Accounts",
+		"url": "https://www.youtube.com/watch?v=fLex8Qgzvpk"
+	},
+	{
+		"title": "AWS Webcast - Amazon RDS for MySQL: Best Practices and Migration",
+		"url": "https://www.youtube.com/watch?v=TT1M_XRAlQo"
+	},
+	{
+		"title": "AWS Webcast - Introduction to Amazon Kinesis",
+		"url": "https://www.youtube.com/watch?v=FxCF34txNfk"
+	},
+	{
+		"title": "AWS Webcast - Getting Started with Amazon Web Services February 2014",
+		"url": "https://www.youtube.com/watch?v=bQhcAu-c9Hw"
+	},
+	{
+		"title": "AWS Partner Webcast - Analyze Big Data for Consumer Applications with Looker BI and Amazon Redshift",
+		"url": "https://www.youtube.com/watch?v=G-gqmsEMzhU"
+	},
+	{
+		"title": "AWS Webcast - Using Amazon CloudFront to Protect Your Content Delivery",
+		"url": "https://www.youtube.com/watch?v=tpdlVrliMf0"
+	},
+	{
+		"title": "AWS Partner Webcast - Create Instant Replicas of On-premises SAP Landscapes",
+		"url": "https://www.youtube.com/watch?v=yQqwzcsbdow"
+	},
+	{
+		"title": "AWS Webcast - Optimize your Database with DynamoDB -- A Deep Dive into Global Secondary Indexes",
+		"url": "https://www.youtube.com/watch?v=Kutr0snaRzU"
+	},
+	{
+		"title": "AWS Webcast - Getting Started with Amamzon Web Services Demonstration",
+		"url": "https://www.youtube.com/watch?v=6UfS-s1MHbM"
+	},
+	{
+		"title": "AWS Webcast - Implementing SAP Solutions on the AWS Cloud",
+		"url": "https://www.youtube.com/watch?v=_VCYV09k0s4"
+	},
+	{
+		"title": "AWS Partner Webcast - Accelerate Manufacturing Design Innovation with Cloud Based HPC",
+		"url": "https://www.youtube.com/watch?v=IdxCqaPz2Is"
+	},
+	{
+		"title": "AWS Partner Webcast - Achieve 10X Database Scalability and Improve Uptime and Performance",
+		"url": "https://www.youtube.com/watch?v=izkkv4lGfqQ"
+	},
+	{
+		"title": "AWS Partner Webcast - Deliver Agile Reporting and Analytics in the Cloud",
+		"url": "https://www.youtube.com/watch?v=F_Pc9z7Drkk"
+	},
+	{
+		"title": "AWS Webcast - The Business Value of Running SAP Solutions on the AWS Cloud",
+		"url": "https://www.youtube.com/watch?v=JaSSAporIjo"
+	},
+	{
+		"title": "AWS Webcast - What is Cloud Computing?",
+		"url": "https://www.youtube.com/watch?v=QjLK4G-xGHg"
+	},
+	{
+		"title": "AWS Partner Webcast - Real Time Application Monitoring and Insights with Librato",
+		"url": "https://www.youtube.com/watch?v=k_Axx7eYy9o"
+	},
+	{
+		"title": "AWS Webcast - Power your Digital Marketing Strategy with Amazon Web Services",
+		"url": "https://www.youtube.com/watch?v=7sXXmwJTG8g"
+	},
+	{
+		"title": "AWS Webcast - Introducing Amazon RDS for PostgreSQL",
+		"url": "https://www.youtube.com/watch?v=kPYeBaaEMEA"
+	},
+	{
+		"title": "AWS Partner Webcast - Leverage Existing Data to Drive Better Decision Making in Your Business",
+		"url": "https://www.youtube.com/watch?v=WPT0od7H2kY"
+	}
+]
